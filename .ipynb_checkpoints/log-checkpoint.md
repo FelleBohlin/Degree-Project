@@ -13,4 +13,3 @@
 5/4 - Where in Kalmar meeting the team there and got questions answered regarding the project.
 
 8/4 - Did the peer review of Project plan.
-    - First tests with openAI api and langchain, which both worked.

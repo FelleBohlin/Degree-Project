@@ -1,21 +1,4 @@
 
-###Roadmap
-1. Project setup
-   - Set up a Jupyter Notebook environment that can interact with LLMs
-2. Data preperation
-    - Define what categorises as sensitive information
-3. Model selection
-    - Use existing LLMs to detect sensitive information
-4. 
-
-
-
-
-
-
-
-
-
 
 Roadmap NLP
 
@@ -47,8 +30,15 @@ LLM
 
 
 Frågor att ställa :
-kostnads effektivitet
-
+ ---se till att tietoevry sammarbetar med friends och att både personlig och känslig information ska tas bort,
+ ska bara ord tas bort eller hela stycken?
+ Hur känslig ska model vara?
+ bättre att plocka bort för mycket?
+ olika mål , teori mål, praktiska mål osv.
+ är det en viss acuraccy ni förväntar er.
+ encrypt eller bara ta bort.
+ behöver jag neural networks?, 
+ varför är detta något ni är intresseerade utav?
  youtube videos/ forums som referenser?
 
 
