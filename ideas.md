@@ -6,7 +6,9 @@
     - Define what categorises as sensitive information
 3. Model selection
     - Use existing LLMs to detect sensitive information
-4. 
+    - The chosen LLM is Microsoft Persudio next points will be for tuning it.
+4. Label PPI in a documnet and test the model see what it dosnt pick up on and go back to tuning it by implementing rule based systems like regex.
+5. 
 
 
 Langchain, Pinecone, OpenAI

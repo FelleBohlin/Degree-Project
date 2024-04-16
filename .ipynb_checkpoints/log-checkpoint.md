@@ -21,6 +21,8 @@
 
 11/4 - Got feedback for projectplan, fixed it and turned it in.
 
-12/4 Working with persuido, working on tuning it for swedish.
+12/4 Working with persuido, working on tuning it for swedish. Added reading from document and dummy data with Faker for certain data parameters
+    Roadmap:
+    
 
 16/4 Persudio seems to be working very well next step is to label the a dataset and test it, to find any weaknesses and rules that needs to be added.
