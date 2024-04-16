@@ -9,10 +9,11 @@
 4. 
 
 
+Langchain, Pinecone, OpenAI
+Presudio? add different language.
 
 
-
-
+open source?? istället för openai
 
 
 
@@ -40,6 +41,7 @@ LLM
 
 
 
+
 ###Notes for Report
 - new environment for the project
 - 
@@ -56,4 +58,14 @@ kostnads effektivitet
 
 ##Refereces
 https://www.youtube.com/watch?v=ENLEjGozrio&t=1s&ab_channel=KrishNaik
+
+https://www.youtube.com/watch?v=aywZrzNaKjs&t=359s&ab_channel=Rabbitmetrics
+
+https://www.youtube.com/watch?v=oUAYZPY-tw8&ab_channel=MG
+
+for improving presidio
+https://github.com/microsoft/presidio/discussions/767
+
+spacy
+https://spacy.io/models/sv/
 

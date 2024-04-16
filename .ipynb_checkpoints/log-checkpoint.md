@@ -13,3 +13,14 @@
 5/4 - Where in Kalmar meeting the team there and got questions answered regarding the project.
 
 8/4 - Did the peer review of Project plan.
+    - First tests with openAI api and langchain, which both worked.
+
+9/4 - reserched LLM models persidio looked interesting.
+
+10/4 - Meeting with Mattias, decidde to try persudio
+
+11/4 - Got feedback for projectplan, fixed it and turned it in.
+
+12/4 Working with persuido, working on tuning it for swedish.
+
+16/4 Persudio seems to be working very well next step is to label the a dataset and test it, to find any weaknesses and rules that needs to be added.

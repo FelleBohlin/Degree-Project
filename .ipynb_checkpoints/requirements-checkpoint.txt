@@ -1,3 +1,10 @@
 langchain
+openai
 pinecone-client
 python-dotenv
+presidio-analyzer
+presidio-anonymizer
+langchain-experimental
+spacy
+Faker
+fasttext-wheel
