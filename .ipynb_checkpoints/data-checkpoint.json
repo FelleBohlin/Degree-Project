@@ -1,0 +1,11 @@
+{
+    "text": "Hej, mitt namn är Felix Böhlin och jag är 23 år gammal. Du kan nå mig på min mobil 070-1234567 eller via e-post felix.bohlin@gmail.com. Jag bor i Stockholm på Västerlånggatan 24. Mitt personnummer är 850709-1234.",
+    "entities": [
+        {"start": 18, "end": 31, "label": "PERSON", "text": "Felix Böhlin"},
+        {"start": 58, "end": 69, "label": "PHONE_NUMBER", "text": "070-1234567"},
+        {"start": 84, "end": 112, "label": "EMAIL", "text": "felix.bohlin@gmail.com"},
+        {"start": 121, "end": 149, "label": "ADDRESS", "text": "Stockholm på Västerlånggatan 23"},
+        {"start": 165, "end": 175, "label": "PERSONAL_NUMBER", "text": "850709-1234"},
+        {"start": 41, "end": 43, "label": "AGE", "text": "23"}
+    ]
+}

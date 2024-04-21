@@ -26,3 +26,20 @@
     
 
 16/4 Persudio seems to be working very well next step is to label the a dataset and test it, to find any weaknesses and rules that needs to be added.
+
+18/4 implemented testing presicion, recall, f1 score, Problem with generating dummy data for certain entities.
+    entities:
+    Name: Anonymizes but dosnt generate dummy data.
+    Location:
+    Email:
+    Phone number
+    Credit cards: dummy data could be phone number
+    Age: Anonymizes but dosnt generate dummy data.
+
+19/4 - Where in Kalmar at TietoEvry office. Worked on prompt enginnering using the new llama v3.
+
+20/4 - Report Writing, finishing chapter 1
+
+21/4 - Report writing, working on chapter 2 the theory, written about PII, GDPR, Langchain and prompt engineering
+    
+    
