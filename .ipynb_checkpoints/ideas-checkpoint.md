@@ -1,4 +1,28 @@
 
+###Roadmap
+1. Project setup
+   - Set up a Jupyter Notebook environment that can interact with LLMs
+2. Data preperation
+    - Define what categorises as sensitive information
+3. Model selection
+    - Use existing LLMs to detect sensitive information
+    - The chosen LLM is Microsoft Persudio next points will be for tuning it.
+4. Label PPI in a documnet and test the model see what it dosnt pick up on and go back to tuning it by implementing rule based systems like regex.
+5. 
+
+
+add imgae recognition to presidio
+
+
+
+Langchain, Pinecone, OpenAI
+Presudio? add different language.
+
+
+open source?? istället för openai
+
+
+
 
 Roadmap NLP
 
@@ -23,6 +47,7 @@ LLM
 
 
 
+
 ###Notes for Report
 - new environment for the project
 - 
@@ -30,15 +55,8 @@ LLM
 
 
 Frågor att ställa :
- ---se till att tietoevry sammarbetar med friends och att både personlig och känslig information ska tas bort,
- ska bara ord tas bort eller hela stycken?
- Hur känslig ska model vara?
- bättre att plocka bort för mycket?
- olika mål , teori mål, praktiska mål osv.
- är det en viss acuraccy ni förväntar er.
- encrypt eller bara ta bort.
- behöver jag neural networks?, 
- varför är detta något ni är intresseerade utav?
+kostnads effektivitet
+
  youtube videos/ forums som referenser?
 
 
@@ -46,4 +64,14 @@ Frågor att ställa :
 
 ##Refereces
 https://www.youtube.com/watch?v=ENLEjGozrio&t=1s&ab_channel=KrishNaik
+
+https://www.youtube.com/watch?v=aywZrzNaKjs&t=359s&ab_channel=Rabbitmetrics
+
+https://www.youtube.com/watch?v=oUAYZPY-tw8&ab_channel=MG
+
+for improving presidio
+https://github.com/microsoft/presidio/discussions/767
+
+spacy
+https://spacy.io/models/sv/
 

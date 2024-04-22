@@ -41,5 +41,7 @@
 20/4 - Report Writing, finishing chapter 1
 
 21/4 - Report writing, working on chapter 2 the theory, written about PII, GDPR, Langchain and prompt engineering
+
+22/4 Report writing, continued on theory chapter 2, written about Microsoft presidio, GDPR, LLM
     
     

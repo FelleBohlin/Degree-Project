@@ -11,6 +11,10 @@
 5. 
 
 
+add imgae recognition to presidio
+
+
+
 Langchain, Pinecone, OpenAI
 Presudio? add different language.
 
