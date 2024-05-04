@@ -1,4 +1,13 @@
 
+Att ta upp på möte
+
+jag har använt LLm för att generera och markera text som används för att testa modellen. Jag skulle kunna köra en LLm lokalt och byta ut all markerad text som ett anonymizerings system.
+
+
+
+
+
+
 ###Roadmap
 1. Project setup
    - Set up a Jupyter Notebook environment that can interact with LLMs
