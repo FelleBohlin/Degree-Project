@@ -36,12 +36,14 @@
     Credit cards: dummy data could be phone number
     Age: Anonymizes but dosnt generate dummy data.
 
-19/4 - Where in Kalmar at TietoEvry office. Worked on prompt enginnering using the new llama v3.
+19/4 - Were in Kalmar at TietoEvry office. Worked on prompt enginnering using the new llama v3.
 
 20/4 - Report Writing, finishing chapter 1
 
 21/4 - Report writing, working on chapter 2 the theory, written about PII, GDPR, Langchain and prompt engineering
 
 22/4 Report writing, continued on theory chapter 2, written about Microsoft presidio, GDPR, LLM
+
+23/4 - Report writing, working on chapther 3 method.
     
     

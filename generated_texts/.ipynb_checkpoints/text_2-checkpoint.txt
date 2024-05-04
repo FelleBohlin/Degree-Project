@@ -1,0 +1,7 @@
+"Så jag var nere vid <address>Gustav Adolfs torg 5, Stockholm</address> och träffade min gamle vän <name>Anna Lindberg</name>. Vi brukade umgås mycket förut men nu har vi inte setts på flera år. Hon berättade att hon bor i Uppsala nu, vid exakta <address>Bredgränd 16, Uppsala</address>. Hon gav mig sitt nya telefonnummer <phone>081-234-5678</phone>.
+
+Senare, precis när jag skulle gå, sa hon 'Om du vill så kan vi hålla kontakten genom email, det är enklare för mig.' Så hon gav mig hennes e-postadress <email>anna.lindberg@gmail.com</email>.
+
+På bussen hem noterade jag att jag hade tappat mitt whiteboard-penna, men som tur är hade jag lagt dess <id>S44XC11</id> serienummer på min telefon tidigare.
+
+När jag kom hem hade jag fått ett email från min bank där de behövde bekräfta mitt <credit_card>1234 5678 9123 4567</credit_card> kreditkortnummer för verifiering. De ville också verifiera mitt konto genom att jag skulle skicka tillbaka mina sista fyra nummer av mitt <id>4562</id> bankkontonummer. Det var en lång dag."

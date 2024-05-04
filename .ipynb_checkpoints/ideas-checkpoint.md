@@ -14,12 +14,17 @@
 add imgae recognition to presidio
 
 
+https://cookbook.openai.com/examples/sdg1
+
+https://learn.microsoft.com/en-us/azure/ai-services/language-service/personally-identifiable-information/concepts/conversations-entity-categories
 
 Langchain, Pinecone, OpenAI
 Presudio? add different language.
 
 
 open source?? istället för openai
+
+with more time could i implement image recognition to presidio
 
 
 
