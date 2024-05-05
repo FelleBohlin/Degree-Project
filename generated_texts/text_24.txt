@@ -1,0 +1,9 @@
+'Vid min resa tillbaka från Göteborg, träffade jag en kvinna som introducerade sig som <name>Anna Karlsson</name>. Hon var verkligen trevlig och påpekade att vi kunde hålla kontakten. Därför gav hon mig sitt telefonnummer <phone>070-123-4567</phone>.
+
+Sedan hamnade jag i en situation där jag var tvungen att besöka Anna på hennes plats för att diskutera en affärsidé jag hade. Faktum är att hon gav mig sin adress <address>Blågatan 12, 56782 Stockholm</address> och sa att jag kunde besöka henne när som helst jag ville diskutera idén jag hade. 
+
+Det var inte förrän några dagar senare som jag insåg att jag hade glömt att skriva ner hennes e-postadress. Lyckligtvis skickade hon det till mig via text. Hennes e-postadress är <email>anna.karlsson@gmail.com</email>.
+
+Dagen jag besökte henne inledde vi vår konversation med prat om vårt nuvarande arbete. Anna betonade att hon ingår i ett fantastiskt projekt och gav mig sitt projektets identifieringsnummer <id>AK5678</id> för att kolla in det online.
+
+Av någon anledning talade vi också om problemet med att lämna ut oss själva på nätet och osäkra transaktioner. Det var då jag kom att tänka på mitt kreditkortsnummer. <credit_card>4111 1111 1111 1111</credit_card>. Jag är dock alltid försiktig med att lämna ut det till vem som helst och jag använder alltid säkra betalningsmetoder.'

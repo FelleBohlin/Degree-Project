@@ -1,0 +1,7 @@
+'Under tiden i parken, stötte jag på en kvinna som introducerade sig själv som <name>Lisa Eriksson</name>. Hon sa att hon bodde nära parken, vid <address>Lundagatan 12, 12345 Stockholm</address>. Vi samtalade i timmar och chansen att vi kunde behöva kontakta varandra igen uppstod, så hon delade sitt telefonnummer <phone>070-123-4567</phone> med mig. Dessutom ville hon dela några bilder från vår dag i parken, så hon gav mig sin e-postadress <email>lisa.eriksson@gmail.com</email>.
+
+Efter några dagar återvände jag till parken och träffade en man vid namn <name>Andreas Gustafsson</name>. Han nämnde att han är medlem i den lokala bokklubben och gav mig sitt medlemsnummer <id>A213456B</id> för att jag skulle kunna gå med. Han tyckte det var viktigt att hålla kontakten och delade sitt telefonnummer <phone>072-891-0112</phone> samt e-postadress <email>andreas.gustafsson@hotmail.com</email> med mig.
+
+Kort därefter, på en lokal butik, fick jag träffat <name>Jenny Karlsson</name>, ägare och en fan av bokklubben Andreas hade berättat för mig om. Hon hade precis köpt en bok med sitt kreditkort, varpå jag läsa ut dess sista fyra siffror <credit_card>XXXX-XXXX-XXXX-4321</credit_card>. Jenny tipsade om att jag kunde beställa boken från nätbutiken och gav mig sin adress <address>Rödavägen 34, 67890 Göteborg</address> för leverans.'
+
+Observera att all den personliga känsliga information som nämns ovan är fiktiv och inte representerar någon verklig person.

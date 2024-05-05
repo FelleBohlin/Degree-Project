@@ -1,0 +1,11 @@
+'Det var en solig dag när jag träffade <name>Anna Karlsson</name> i parken. Hon var en gammal vän till mig och vi bestämde oss för att ta en kopp kaffe någon dag. Anna gav mig sitt telefonnummer <phone>987-654-3210</phone> och hennes e-postadress <email>anna.karlsson@outlook.com</email>.
+
+På vägen hem gick jag förbi <name>Anders Nilssons</name> hus. Hans adress är <address>Storgatan 15, 12345, Stockholm</address>. Han är en gammal bekant och vi har skickat e-post till varandra tidigare. Hans e-postadress är <email>anders.nilsson@gmail.com</email>.
+
+När jag kom hem såg jag ett paket utanför dörren. Det var mitt nya kreditkort från min bank. På framsidan noterade jag mitt nya kreditkortsnummer <credit_card>1234-5678-9101-1121</credit_card> och utgångsdatumet på kortet.  
+
+Senare på kvällen mottog jag ett samtal ifrån mitt gym. De behövde mitt medlemsnummer för att uppdatera min profil. Jag gav dem mitt medlemsnummer <id>56789</id>.
+
+Jag har också haft kontakt med min teleoperatör om dens dåliga tjänst. De bad mig skicka mitt kundnummer <id>ABC123</id> så att de kunde kolla upp mina uppgifter. 
+
+Min dag avslutades med att jag betalade mina räkningar online. Jag loggade in på min banks webbplats och verifierade mig med mitt bankkonto nummer <id>123456789</id>.'

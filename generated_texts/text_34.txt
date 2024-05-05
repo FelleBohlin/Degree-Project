@@ -1,0 +1,13 @@
+När jag promenerade i parken igår så träffade jag en kvinna. Hon presenterade sig som <name>Anna Karinsson</name>. Hon var på gott humör och nämnde att hon just hade flyttat till området. Hennes nya adress är <address>Trädgårdsgatan 3, 12345, Stockholm</address>. 
+
+Anna var väldigt pratglad och vi utbytte kontaktinformation. Hennes telefonnummer är <phone>070-123-4567</phone> och hon mejlar ofta, så hon gav mig också hennes e-postadress <email>anna.karinsson@example.com</email>. 
+
+När vi pratade kom vi in på ämnet om vår gemensamma passion för böcker och hon berättade att hon är medlem i en bokklubb. Jag nämnde att jag också var intresserad, varpå hon lovade att försöka få ett medlemsnummer till mig så jag kan bli medlem. Hennes egna medlemsnummer är <id>AK12345BookClub</id>.
+
+Återigen förtydligar jag att all känslig data i denna text är helt påhittad och inte kopplad till någon verklig person.
+
+Efter vår tjugo minuter långa konversation om böcker, upplyste Anna mig om att mitt medlemskap sannolikt skulle kräva en liten månadskostnad. Hon tillämpade inte längre kontanter och jag sa att det lät mer än rimligt. Hon skickade mig faktiskt snabbt över det kreditkort hon använder för att betala sin egen medlemsavgift. Kreditkortsuppgifterna var <credit_card>1234 5678 9012 3456, utgångsdatum 08/24</credit_card>. Säkerhetskoden valde hon dock att inte avslöja.
+
+Åter igen, all information som har tillhandahållits i denna text är helt och hållet påhittad och ingen finansiell handling ska göras baserat på denna.
+
+Vi skildes åt vid parken och planerade att ses igen nästa vecka. Jag ser fram emot mer intressanta samtal med <name>Anna</name>.

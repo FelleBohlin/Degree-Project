@@ -1,0 +1,9 @@
+"Häromdagen var jag på en sammankomst med mina gammal vänner. En av dem, <name>Anna Nilsson</name>, berättade om hennes nya hem. Hon hade nyligen köpt ett hus på <address>Blomstergatan 4, 12345 Malmö</address> och var mycket entusiastisk över det. Hon gav mig även sitt nya telefonnummer, <phone>076-987-6543</phone>, ifall jag ville komma och hälsa på.
+
+Det var även då jag träffade <name>Markus Johansson</name>. Han var en gammal kompis till Anna. Markus använde ett unikt <id>tQ9k2J8v</id> som sin identifierare när han spelade spel online. Jag tyckte det var intressant hur han kommunicerade online, så jag bad om hans email. Han gav det till mig, det var <email>markus.johansson@gmail.com</email>.
+
+Vi pratade om många saker, och vi hamnade till slut på det ämnet om vår ekonomi. Markus berättade om sitt kredikort från sin bank. Jag minns att han skyndade att berättade att han precis betalt av hela beloppet på sitt bankkort numéro <credit_card>1234 5678 9101 1121</credit_card>. Han var mycket nöjd med detta prestation!
+
+Det var en rolig dag att umgås med vänner och att dela sina liv med varandra. Även om det innefattade att dela några känsliga uppgifter, kändes det tryggt eftersom vi alla är goda vänner."
+
+Observera att alla namn, adresser, telefonnummer, e-postadresser och kreditkortsnummer i denna text är fiktiva och skapade enbart i edukativa syfte.

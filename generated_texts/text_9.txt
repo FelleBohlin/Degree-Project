@@ -1,0 +1,9 @@
+Jag var på en konferens och jag träffade en inspirerande talare vid namn <name>Anna Karlsson</name>. Vi diskuterade en stund och vid slutet av konversationen gav hon mig sitt visitkort med hennes telefonnummer <phone>987-654-3210</phone> och hennes e-postadress <email>anna.karlsson@företag.com</email>.
+
+Senare på dagen, när jag återvände hem, passerade jag <name>Jakob Nilsson</name>'s hus på <address>Vasagatan 15, 111 20 Stockholm</address>. Vi pratade en stund och han berättade att han nyligen bytt jobb. Han gav mig sitt nya arbetsnummer <phone>546-789-1234</phone>.
+
+Dagen efter besökte jag en bekant, <name>Ingrid Johansson</name>, på hennes arbetsplats. Hon skickade mig en inbjudan via e-post tidigare så jag hade hennes e-postadress <email>ingrid.johansson@arbetsplats.se</email>. Hon introducerade mig för sin kollega <name>Olle Pettersson</name> som gav mig sitt medlemsnummer <id>OP789123</id>.
+
+Senare på veckan, fick jag en god vän <name>Anna-Sara Lind</name> på besök. Vi samtalade om en gemensam resa vi planerar och hon gav mig sitt biljettnummer <id>ASL456987</id>. I samma konversation bytte vi kreditkortsinformation för att dela på kostnaderna. Hennes kreditkortsuppgifter är <credit_card>1234 5678 9012 3456, säkerhetskod 789, utgångsdatum 01/24</credit_card>. 
+
+Allt detta hände helgen när jag besökte <name>John Doe</name> på hans adress på <address>123 Sveavägen, 113 83 Stockholm</address>. Han hade skickat mig ett brev med id <id>JD112233</id> och under vår fika ville han registrera ett nytt e-post <email>john.doe@domän.se</email>.

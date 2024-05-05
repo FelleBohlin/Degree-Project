@@ -1,0 +1,9 @@
+Här kommer en textinskrift:
+
+'På promenaden genom stadens hjärta råkade jag stöta på min gamla vän, <name>Emma Olsson</name>. Hon log varmt och sa att vi verkligen borde hålla kontakten, och uppmanade mig snabbt att skriva ner hennes telefonnummer, som var <phone>070-987-6543</phone>. Hon berättade också försiktigt att hon hade flyttat till en ny lägenhet nyligen. Hennes nya adress var <address>Rosenvägen 4, 12345 Stockholm</address>.
+
+Under vår lilla chitchat nämnde hon också att hon nyligen hade bytt jobb och fick därför en ny yrkesmässig e-postadress. Hon sa snabbt att jag skulle kunna nå henne på <email>emma.olsson@newjob.com</email>. Sedan minns jag att hon började prata om sin online-shoppingvurm och nämnde att hon köpte mest saker online. Med fantastisk ursäkt visade hon upp ett digitalt kundkort och jag kunde inte undvika att märka kund-id:et som var <id>XJ567T890</id>.
+
+Efter ytterligare några minuters prat, diskuterade hon hur hennes shoppingbetéende hade resulterat i att hon behövde skaffa ett kreditkort exklusivt för onlineinköp. Även om hon inte delade sitt kortnummer direkt såg jag oavsiktligt kortets slutliga fyra siffror, som var <credit_card>**** **** **** 1234</credit_card>.
+
+Vi sa hejdå för dagen och jag samlade ihop all den information som jag hade fått från henne. Nu ser jag fram emot fler dagliga promenader, vem vet vem jag kan stöta på nästa gång.'

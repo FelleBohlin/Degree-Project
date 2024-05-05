@@ -1,0 +1,7 @@
+'Hade ett trevligt samtal med en människa som går under namnet <name>Anna Lindberg</name> i helgen. Vi träffades på en kafé i <address>Humlegårdsgatan 23, 11446 Stockholm</address>. Hon gav mig sitt telefonnummer <phone>073-123-45-67</phone>. Vi planerar att hålla kontakten och Anna lämnade därför sin e-postadress <email>anna.lindberg@gmail.com</email>. 
+
+Anna jobbar på ett företag där de använder alfanumeriska identifierare för deras produkter, och hon delade ett exempel, <id>A123B456</id>. Hon är också medlem i en lokal bokklubb och hennes medlemsnummer är <id>6578</id>. Men för allt konstigt nog, hon har glömt bort kortnumret till sitt kreditkort, dock minns hon säkerhetskoden som är <credit_card>123</credit_card>.
+
+Efter kafé-besöket, besökte jag min vän <name>Karl Gustafsson</name> som bor på <address>Torsgatan 21, 11362 Stockholm</address>. Han har nyligen bytt telefon och hans nya nummer är nu <phone>076-234-56-78</phone>. Karl gillar inte e-post så mycket men när vi tvingades skapa ett konto för att köpa biljetter till en konsert tidigare i år, använde han adressen <email>karl.gustafsson@hotmail.com</email>. 
+
+Karl är också medlem i en sportförening och hans medlemsnummer är <id>7890</id>. Hans biljettnummer till fotbollsmatchen vi ska se nästa månad är <id>ABCDE12345</id>. Han pratade om sin senaste shoppingrunda nätet och råkade nämna de sista fyra siffrorna på sitt kreditkort, <credit_card>6789</credit_card>.'

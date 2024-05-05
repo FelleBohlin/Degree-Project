@@ -1,0 +1,9 @@
+I morse gick jag till gymmet och träffade <name>Lisa Eriksson</name> för första gången. Hon sa att hon just hade flyttat till stan och bodde på <address>Blåbärsstigen 4, 12345, Stockholm</address>. Eftersom vi har liknande träningsintressen, gav hon mig sitt telefonnummer <phone>070-123-4567</phone> och e-postadress <email>lisa.eriksson@hotmail.com</email> för att koordinera framtida träningspass.
+
+Senare på dagen, på väg tillbaka till jobbet, sprang jag på en gammal bekant, <name>Nils Karlsson</name>. Han bor nu på <address>Ringvägen 78, 67890, Göteborg</address> och hans telefonnummer är <phone>073-654-3210</phone>. Han gav mig också sitt e-postadress <email>nils.karlsson@gmail.com</email> och vi planerar att ta en kaffe tillsammans i nästa vecka. 
+
+Under eftermiddagen fick jag ett samtal från min bank. De behövde verifiera min nya telefon och bad mig ge dem min identifierare <id>56789-ID-BANK</id> och mitt <credit_card>1234-5678-9012-3456</credit_card>. 
+
+Senare under kvällen pratade jag med min kollega, <name>Oscar Berg</name>. Han bor i samma stad <address>Solrosstigen 9, 43210, Linköping</address> och vi bestämde oss för att ta en sen lunch tillsammans nästa vecka. Han gav också sitt telefonnummer <phone>076-987-6543</phone> och e-postadress <email>oscar.berg@yahoo.com</email>. 
+
+Vid slutet av dagen ringde jag en gammal bekant, <name>Anna Johansson</name>. Vi talade om gamla tider och planerade för en reunion. Hon bor nu på <address>Vitsippsvägen 12, 54321, Malmö</address> och hennes telefonnummer är <phone>079-876-5432</phone>. Jag samlade också hennes e-postadress <email>anna.johansson@gmail.com</email> för att hålla kontakt.

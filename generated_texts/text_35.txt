@@ -1,0 +1,9 @@
+"När jag kom fram till staden mötte jag <name>Anna Eriksson</name>, hon bodde i ett rött hus på <address>Fabriksgatan 3, 12345 Stockholm</address>. Anna var mycket välkomnande och bjöd in mig till hennes hem för en kopp kaffe. Under vår diskussion gav hon mig sitt telefonnummer <phone>0768-123-456</phone> och hennes e-postadress <email>anna.eriksson@gmail.com</email> för att vi skulle hålla kontakten.
+
+Nästa dag inledde jag på en affärsresa till Göteborg. När jag checkade in på hotellet fick jag ett rum med ett identifieringsnummer <id>345ER</id>, vilket jag tyckte var ganska ovanligt. Hotellet hade en underbar utsikt över staden. Frukostbuffén var fantastisk och betalningen gick smidigt med mitt <credit_card>1234-5678-9101-1121</credit_card>. 
+
+Min vän, <name>Karl Pettersson</name>, en lokal boende, visade mig runt staden. Karl jobbar med många lokala företag och han delade sitt professionella e-post-id <email>karl.pettersson@business.se</email> med mig. Han blev verkligen en god vän och gav mig sitt hemtelefonnummer <phone>031-234-5678</phone>.
+
+Mitt besök i Sverige avslutades med en resa till Malmö. Jag bodde hos en vän, <name>Sara Lund</name>, som bor på <address>Lärkgatan 2, 67890 Malmö</address>. Sara är en ivrig resenär och hon delade med sig av flera av sina resplaner där hon behövde använda sitt medlemsnummer <id>A789Z3</id> för att få rabatter på biljetter. 
+
+Alla nya bekantskaper och upplevelser från de här resorna kommer alltid att finnas i mitt minne."

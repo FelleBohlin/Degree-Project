@@ -1,0 +1,9 @@
+Själv var jag ute på en promenad i det soliga vädret när jag träffade en gammal vän vid namn <name>Martin Karlsson</name>. Vi pratade om gamla minnen och han ville hålla kontakten, så han gav mig sitt telefonnummer <phone>07X-XXX-12 34</phone>. Han bor nu i Stockholm på <address>Drottninggatan 42, 112 20 Stockholm</address>. För att enklare kunna kontakta honom, gav han mig också sin e-postadress <email>martin.karlsson@provider.se</email>.
+
+För några år sedan jobbade han för ett företag där alla anställda var tvingade att bära id-kort med deras unika alfanumeriska identifierare. Hans var <id>AB1234MK</id>. Sedan dess har han kontinuerligt använt det numret för att minnas saker, som för att sätta koder till lås och dylikt. 
+
+Efter att vi skildes åt, bestämde jag mig för att besöka en bokhandel. Till min överraskning, träffade jag på en bekant från gymnasietiden, <name>Sandra Berglund</name>. Vi kom att diskutera ekonomi och hon delade med sig vissa detaljer om ekonomisk skötsel. Hon berättade att hon hade ett kreditkort nummer <credit_card>XXXX XXXX XXXX 5678</credit_card> där hon samlade poäng för varje användning.
+
+Döm av min förvåning när sedan på kvällen, fick jag ett mail från en arbetskamrat <name>Stefan Johansson</name> som bor i Göteborg på <address> Norra Allégatan 15, 413 01 Göteborg</address>. Han ville få tag på en rapport som jag hade. För att identifiera vilken rapport han vill ha, skickade han sitt unika sifferidentifierare <id>987654</id>. Som svar skickade jag honom rapporten på hans e-postadress <email>stefan.johansson@workplace.com</email>. 
+
+Detta är i stort sett allt viktigt som hände under min dag där jag stötte på flera personer och fick en del personlig känslig information.

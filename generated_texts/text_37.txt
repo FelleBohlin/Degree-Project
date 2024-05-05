@@ -1,0 +1,9 @@
+Att bo i en småstad kan vara charmigt, likaså gör det Isabella Bergström, känd som <name>Isabella Bergström</name>. Hon bor en vacker liten gata kallad <address>Björklundsgatan 11A, 51732 Borås</address>. Man kan alltid nå till henne på hennes hemtelefon <phone>033-123 4567</phone> eller via hennes arbetslagda mejl <email>isabella.bergstrom@workplace.se</email>. Isabella har alltid tänkt på säkerheten och därför är hon med i ett lokalt grannskapsnätverk, där hon har identifieraren <id>NEI345BGR</id>.
+
+På andra sidan staden bor en gammal vän till Isabella, han heter <name>Erik Olsson</name> och han bor på <address>Granvägen 9, 59840 Vimmerby</address>. Erik är relativt introvert och hittar comfort genom osynlighet, så ingen har egentligen hans telefonnummer. Dock kan du nå honom på hans mejl: <email>erik123@gmail.com</email>.
+
+Isabella brukar ofta resa till stora städer och under en av dessa resor mötte hon <name>Johan Pettersson</name>. Han är en affärsman som bor i <address>Sjögatan 45B, 11260 Stockholm</address> och man kan lätt nå honom antingen via hans mobilnummer, <phone>0765-123456</phone> eller hans professionella e-postadress, <email>johan.pettersson@buisnesspro.se</email>. Inför mötet brukar han ge sitt unika affärsnummer till partners: <id>JP7893BUS</id>.
+
+För affärsmöten använder han alltid sitt kreditkort, och han gav Isabella uppgifter om det, då de skulle dela på en gemensam nota. Hans kreditkortsuppgifter är <credit_card>4492 1234 5678 9012</credit_card>.
+
+Observera att all data ovan är inte verklig, men endast ett exempel på hur sådan känslig information kan vara formaterad i en berättande text.

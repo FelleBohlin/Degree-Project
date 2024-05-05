@@ -1,0 +1,7 @@
+"Då jag var på väg hem i förrgår, gick jag förbi ett vackert hus på <address>Blomstervägen 12, 12345 Solstad</address>. Där såg jag en skylt på fönstret som tillhörde en person vid namn <name>Anna Karlsson</name>. I tron att jag tappat min mobil, gick jag fram till dörren är mitt första instinkt var att ringa på. Anna gav mig sitt telefonnummer <phone>098-765-4321</phone> och sa att jag kunde ringa om jag hittade min mobil.
+
+Efter att ha fått Annas nummer, gick jag hem och letade efter min telefon. Till min lättnad hittade jag den. Jag bestämde mig för att skicka ett mejl till Anna som tack för hjälpen, men insåg att jag inte hade hennes e-postadress. Jag ringde till henne och hon gav mig hennes e-postadress <email>anna.karlsson@mail.com</email>.
+
+Dagen efter fick jag ett paket på posten. Spårningsnumret på paketet var <id>AB123XYZ</id> och det var min nya bärbara dator som jag beställt. Jag hade betalat med mitt kreditkort <credit_card>1234 5678 9123 4567</credit_card> och nu äntligen kunde jag sätta igång med mitt arbete."
+
+Observera: All den personliga känsliga informationen som används i denna text är fiktiv och har skapats enbart till syfte för denna övning.

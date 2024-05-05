@@ -1,0 +1,9 @@
+'Så häromdagen blev jag bekant med en dam som kallade sig för <name>Greta Johansson</name>. Hon var från staden <address>Läbyviken, Storvägen 54, postnumret 79430</address>. Var en intressant person att prata med, gav mig hennes telefonnummer <phone>987-654-3210</phone>. Hon bad mig att skicka ett mail till <email>greta.johansson@hotmail.com</email> ifall jag hade fler frågor efter vårt samtal.
+
+Inte långt efter det, träffade jag på en man vid namn <name>Simon Larsson</name>. Vi började diskutera om hans yrke och han vill gärna dela med sig av sin ID <id>SL1592KT</id> i sitt företag om jag ville veta mer om honom på nätet. Han var väldigt noga med sin säkerhet, men delade med sig av sitt telefonnummer <phone>258-369-1470</phone> ifall jag ville kontakta honom direkt.
+
+Vid samma tillfälle var en <name>Andrea Karlsson</name> där. Hon sa att vi kunde hålla kontakten genom hennes mail <email>andrea.karlsson@gmail.com</email> och hemmaadress, <address>Östersund, Storsjöyranvägen 99, 83156</address>. Vi pratade också om lite allmänna saker, och hon nämnde hennes medlemsnummer <id>AK77448SC</id> på biblioteket where hon brukar tillbringa en stor del av sin fritid.
+
+Jo då, jag pratade också med personen vid namn <name>Erik Nilsson</name>. Erik är en försiktig man när det kommer till hans känsliga information men han delade med mig sitt telefonnummer <phone>345-678-9101</phone> och adress <address>Skogsvägen 19, 98143 Kiruna</address>. Erik kändes mer som någon jag stannade i kontakt med via e-post så jag bad om hans e-postadress och han var vänlig nog att ge mig den <email>erik.nilsson@outlook.com</email>.
+
+I framtiden ser jag fram emot att ha fler konversationer med alla dessa enormt intressanta individer. Detta kommer säkerligen att vara min modell för hur jag samlar information i framtiden.'

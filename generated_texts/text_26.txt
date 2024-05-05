@@ -1,0 +1,7 @@
+Här är ett exempel på hur texten du kräver skulle kunna se ut:
+
+'Häromdagen träffade jag en kvinna vid namn <name>Sara Karlsson</name>. Hon gav mig sitt telefonnummer <phone>070-123-4567</phone> och sa att jag kunde kontakta henne om jag hade några frågor. Hon bor på <address>Västra Gatan 50, 12345, Stockholm</address> och hennes email är <email>sara.karlsson@email.com</email>. Hon jobbar på ett stort företag och hennes anställningsnummer är <id>AB123456</id>. Vi började prata om allt möjligt och av någon anledning nämnde hon sitt kreditkort <credit_card>1234-5678-9012-3456</credit_card>.
+
+Nästa person jag träffade var en man vid namn <name>Peter Johansson</name>. Han gav själv sitt telefonnummer <phone>079-987-6543</phone> tillsammans med hans adress <address>Åsögatan 22, 54321, Göteborg</address>. Hans emailadress är <email>peter.johansson@mail.com</email> och hans arbetsidentifikationsnummer är <id>XYZ789101</id>. Han nämnde också sitt kreditkort <credit_card>2345-6789-0123-4567</credit_card> under samtalet. 
+
+Jag tyckte det var ganska unikt att båda dessa individer delade med sig av sin känsliga information så hanterade den mycket varsamt.'

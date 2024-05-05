@@ -1,9 +1,9 @@
-Här är ett exempel på hur din text kan formuleras:
+Under min resa till Göteborg, jag träffade ett intressant par på ett café. Paret, <name>Anna och Erik Nilsson</name>, var mycket trevliga. Efter en måltid, utbytte vi kontaktinformation. <name>Anna Nilsson</name> gav mig sitt telefonnummer <phone>070-123-4567</phone> och <name>Erik Nilsson</name> delade sitt e-postadress <email>erik.nilsson@gmail.com</email>.
 
-'På vägen hem stötte jag på <name>Anna Karlsson</name>. Hon delade med sig av sina kontaktuppgifter och gav mig sitt telefonnummer <phone>07X-XXX-XX-XX</phone>. Jag fick också hennes adress, <address>Lillevägen 3, 123 45 Storstad</address>. När vi pratade sa hon att det bästa sättet att nå henne var via e-post och gav mig kontaktdetaljerna <email>anna.karlsson@email.com</email>.
+När jag lämnade caféet, jag märkte att jag hade glömt min väska. Jag ringde till <phone>070-123-4567</phone> för att meddela om min väska. Lyckligtvis, <name>Anna</name> hade sett det och har lagt den undan. Hon berättade att hon bodde precis runt hörnet på <address>Götgatan 23, 41116 Göteborg</address> och jag kunde komma när som helst för att hämta den.
 
-Sedan gick vi och satte oss på ett litet kafé i stan. Vi började prata om alla möjliga saker. Under samtalet nämnde hon plötsligt att hon förlorat sitt bankkort. Hon beskrev det som ett vanligt belastningskort med sitt bankkonto <id>1234-567890</id> kopplat till det.
+På vägen till hennes <address>Götgatan 23</address>, jag kom ihåg att jag hade lämnat mitt idkort <id>123456-7890</id> i väskan. När jag kom fram till adressen, jag försäkrade att allt var i väskan, inklusive mitt idkort <id>123456-7890</id>.
 
-Jag frågade om hon hade spärrat det, och hon sa att det hade hon faktiskt inte hunnit göra än eftersom hon varit så distraherad av sin vilda dag. Jag uppmanade henne verkligen att göra det så fort som möjligt. Hennes bankkort <credit_card>XXXX-XXXX-XXXX-XXXX</credit_card>, säkerhetskod och utgångsdatum är all information som ingen borde ha tillgång till om de inte absolut behöver det.' 
+Senare, <name>Erik</name> kontaktade mig via e-post på <email>erik.nilsson@gmail.com</email> och bad om det kreditkortnummer som han hade lånat för att betala för kaffet. Jag gav honom <credit_card>5412 3456 7890 1234</credit_card>, som vi hade använt för att betala.
 
-Observera att alla uppstående 'X' i texten representerar slumpmässiga siffror.
+Den här upplevelsen påminde mig om det underbara i spontana samtal och hur det kan leda till oväntade vänskap.

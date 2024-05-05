@@ -1,5 +1,13 @@
-Jag beslutade mig för att ringa den gamla vän som jag inte hade pratat med på länge. När jag slog upp hans namn <name>Carl Nilsson</name> i min kontaktlista på telefonen, hittade jag hans nummer <phone>070-1234567</phone> och mailade honom först på hans mejladress <email>carl.nilsson@gmail.com</email> för att se om han var tillgänglig för en pratstund. Han bor någonstans på <address>Sturegatan 20, 11436 Stockholm</address>. 
+Nyligen tränade jag mitt labrador retriever <name>Fido</name> och vi gick för att göra några ärenden. Vi stannade på kaffebutiken på <address>123 Kaffegatan, 43215 Kaffestaden</address>. Medan jag njöt av mitt kaffe märkte jag att jag blev uppringd på mitt <phone>077-123456789</phone>. Det var min gamle vän <name>Emma Andersson</name> som ville träffa mig senare på dagen.
 
-En gång hade vi båda varit medlemmar i samma tennisförening. Jag minns att hans medlemsnummer var <id>127CA45</id>, men det har nog ändrats sedan dess. Vi brukar äta middag på en lokal restaurang, men jag brukar betala eftersom han oftast glömmer sitt kreditkort <credit_card>5472 1234 5678 9012</credit_card> hemma. Hans kreditkortssäkerhets kod och utgångsdatum är något jag inte vet dock. 
+Emma, som bodde på <address>789 Äppelvägen, 25634 Äppelstaden</address>, ville planera en liten återförening med gamla vänner. Jag gick med på det och vi bestämde oss för att jag skulle skicka ut inbjudningarna. Jag noterade hennes telefonnummer <phone>079-987654321</phone> och hennes e-postadress <email>emma.andersson@domain.com</email> för framtida referens.
 
-Sedan hade jag en kompis som alltid var toppen på all teknisk support, hans namn är <name>Anders Berg</name>, tel: <phone>073-6543210</phone>. Hans mail är <email>anders.berg@gmail.com</email> och han bor på <address>Vasagatan 15, 11120 Stockholm</address>. Han har aldrig behövt ett medlemsnummer <id></id> eftersom han äger företaget. Han använder sitt kreditkort <credit_card>4520 9876 5432 1098</credit_card> för alla företagsköp.
+Jag gick tillbaka hem och började skicka ut inbjudningar via e-post. Min första mottagare var <name>Anders Blom</name>, vi har känt varandra sedan högstadiet. Jag minns alltid hans e-postadress <email>anders.blom@domän.se</email> och telefonnummer <phone>070-445506070</phone> eftersom vi håller kontakten ofta.
+
+Jag kom också ihåg att jag behövde betala hyran. Mina bankuppgifter var sparade på min dator. Jag loggade in på mitt konto med mitt unika identifieringsnummer <id>123-abc-789</id> och gjorde överföringen från mitt konto <credit_card>9876-5432-1245-6789</credit_card>.
+
+Därefter skickade jag e-post till min gamle vän, <name>Karin Ek</name>. Vi har inte pratat sedan vår utbildning på universitetet, men jag hade fortfarande sparat hennes e-postadress <email>karin.ek@domän.se</email>.
+
+Därefter ringde jag upp <name>Per Karlsson</name> på hans rörliga <phone>076-123789456</phone>. Han var den sista i vår grupp som jag behövde kontakt för vår återförening.
+
+Så här ser en vanlig dag ut för mig, full av digital kommunikation med vänner och hantering av mina personliga och finansiella ärenden på ett säkert sätt.

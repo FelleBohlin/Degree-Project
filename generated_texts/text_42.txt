@@ -1,0 +1,11 @@
+Jag promenerade längs gatan och råkade på en äldre dam vid namn <name>Birgitta Larsson</name>. Hon pratade om hur hon flyttat till en ny adress, specifikt till <address>Tallgatan 3, 12345, Stockholm</address>. Samtidigt sa hon att hennes telefonlinje fortfarande var installerad på gamla adressen, och att hon har kontaktat företaget via <phone>08-1234567</phone> för att uppdatera informationen.
+
+På en restaurang träffade jag en servitris vid namn <name>Emma Johansson</name> som var otroligt trevlig. Efter måltiden lämnade hon mig sitt visitkort som innehöll hennes e-post <email>emma.johansson@gmail.com</email> och hennes adress <address>Äppelgatan 27, 54321, Malmö</address>.
+
+Ett annat möte var med <name>Jonas Karlsson</name>, en försäljningsrepresentant för en teknikbutik. Han gav mig ett medlemskort som har ett unikt medlemsnummer <id>JK123456</id>. Han gav mig också sitt företags e-postadress <email>info@teknikbutik.se</email> för eventuella frågor eller kundsupport.
+
+Ibland är det oundvikligt att jag måste ange personlig information som min adress <address>Växtvägen 15, 67890, Göteborg</address>, mitt telefonnummer <phone>031-2345678</phone> eller till och med mitt kreditkortsnummer <credit_card>1234-5678-9012-3456</credit_card> när jag handlar online. Oavsett vad, är jag alltid säker på att jag använder säkra metoder för att skydda min information. 
+
+Mitt arbetsnummer <id>456789</id> är ett annat exempel på personlig känslig information, liksom mitt företags e-postadress <email>jobb@mittforetag.se</email>. Dessa två informationer är avgörande för min yrkesroll, och jag använder dem dagligen i kommunikation och samarbete. 
+
+Till sist vill jag nämna min bästa vän, <name>Erik Andersson</name>. Han är ständigt anmäld till olika nyhetsbrev och uppdateringar via sin e-post <email>erik.andersson@hotmail.com</email>. Dessutom är han alltid snabb med att nå ut till mig genom sitt mobilnummer <phone>070-3456789</phone>. Erik är otroligt organiserad, och han inspirerar mig att bli mer ordentlig med min egen information.

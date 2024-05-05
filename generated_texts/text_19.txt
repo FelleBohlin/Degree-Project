@@ -1,0 +1,9 @@
+Jag var i parken och såg en individ som heter <name>Anna Johansson</name>. Hon hade sitt husdjur med sig, och jag bestämde mig för att starta ett samtal. Hon sa att hon bor på <address>Stora Gatan 45, 12345 Stockholm</address>. Under vårt samtal berättade hon mig hennes e-postadress <email>anna.johansson@gmail.com</email> och sa att jag kan maila henne.
+
+Under ett möte på jobbet, delade vår nya kund <name>Robert Karlsson</name> sin professionella e-post med oss <email>robert.karlsson@företaget.se</email>. Han gav oss även sitt telefonnummer <phone>070-1234567</phone> om vi någonsin behöver kontakta honom om jobbet. Vi tilldelade honom också en unik kundidentifierare <id>K123456789</id>.
+
+Igår ringde banken mig angående en transaktion på mitt kreditkort. De berättade att kortet används för ett inköp i Tyskland, men jag har inte lämnat Sverige. De frågade mig att verifiera mitt kreditkortsnummer <credit_card>1234-5678-9123-4567</credit_card>. Omedelbart insåg jag att jag blivit utsatt för identitetsstöld.
+
+En dag medan jag promenerade, råkade jag träffa min gamla vän <name>Sofia Larsson</name>. Hon hade nyligen flyttat in i sin nya lägenhet på <address>Fina Gatan 12, 56789 Göteborg</address>. Hon uppmanade mig att komma över någon dag och gav mig sitt telefonnummer <phone>077-9876543</phone> och sin e-postadress <email>sofia.larsson@hotmail.com</email>.
+
+Förra veckan vid en affärsmöte träffade jag en potentiell kund, <name>Mohamed Ali</name>. Efter mötet gav han mig hans visitkort som hade hans kontorsadress <address>Teknikvägen 3, 11111 Uppsala</address> och hans jobbnummer <phone>018-1234567</phone>. Han berättade även om hans jobb e-post <email>mohamed.ali@tech.se</email> för framtida affärskorrespondens.

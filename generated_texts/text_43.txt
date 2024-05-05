@@ -1,0 +1,9 @@
+Första gången jag träffade <name>Emma Lindberg</name> var på en kafé i <address>Vasagatan 24, 111 20 Stockholm</address>. Hon hade en vänlig utstrålning och vi började prata om allt mellan himmel och jord. Emma berättade att hon precis hade börjat jobba på en ny arbetsplats. Jag tyckte att det var intressant, så jag bad om hennes <phone>070-123-4567</phone> för att kunna hålla kontakten. Emma sa också att jag kunde nå henne via mail, så jag noterade <email>emma.lindberg@gmail.com</email>.
+    
+En dag när jag försökte nå Emma, så gick det inte. Det visade sig att Emma hade skaffat ett nytt nummer och hade glömt att berätta det för mig. Hon bad om ursäkt och gav mig hennes nya <phone>072-456-7890</phone>. Hon sa att hon nyligen hade flyttat till <address>Drottninggatan 50, 111 21 Stockholm</address>.
+
+I egenskap av investerare, kom det en tid då jag behövde Emmas hjälp för att sätta upp ett företag. För det, krävdes hennes identifierare nummer, vilket hon gav mig. Hennes identifierare nummer var <id>SE1234567890</id>. Inget fel hittills.
+
+En gång, när vi var på en affärsresa, förlorade hon sitt kreditkort. Som vän, hjälpte jag henne att spärra det gamla kortet och beställa ett nytt. Därför vet jag hennes <credit_card>XXXX-XXXX-XXXX-1234</credit_card>, dock utan säkerhetskod och utgångsdatum då dessa är hemliga.
+
+I slutändan, kommer jag alltid att vara tacksam för att ha träffat Emma. Hon är anmärkningsvärd i sitt sätt att vara och jag är verkligen lycklig att kalla henne min vän.

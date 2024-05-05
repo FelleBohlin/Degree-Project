@@ -1,0 +1,7 @@
+Jag var ute och handlade i butiken på <address>Storgatan 8, 12345 Göteborg</address> tidigare idag. Medan jag handlade stötte jag på en gammal vän som jag inte sett på länge. Han heter <name>Peter Nilsson</name>. Vi stod och pratade en stund och bestämde oss för att ta en fika senare i veckan. Peter gav mig sitt telefonnummer: <phone>072-345-6789</phone>.
+
+På vägen ut från butiken stannade jag till vid brevlådorna och såg att jag fått post. En räkning som behövde betalas. Jag läste igenom räkningen och såg att mitt konto nummer <id>123456789</id> var markerat på toppen av räkningen, och direkt under det stod mitt namn, <name>Lisa Andersson</name>.
+
+När jag kom hem, loggade jag in på min e-post <email>lisa.andersson@exempel.com</email> och såg att jag hade fått ett e-postmeddelande från mitt kreditkortföretag. De ville bekräfta att min senaste transaktion, med mitt kreditkort nummer <credit_card>1234 5678 9123 4567</credit_card>, hade genomförts korrekt. Jag kollade igenom transaktionen och allt såg ut som det skulle.
+
+Det var en ganska händelserik dag, men nu är det dags att slappna av och kolla på en film.

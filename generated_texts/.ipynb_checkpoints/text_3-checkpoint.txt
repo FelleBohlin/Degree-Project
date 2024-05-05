@@ -1,9 +1,0 @@
-Här är ett exempel på hur din text kan formuleras:
-
-'På vägen hem stötte jag på <name>Anna Karlsson</name>. Hon delade med sig av sina kontaktuppgifter och gav mig sitt telefonnummer <phone>07X-XXX-XX-XX</phone>. Jag fick också hennes adress, <address>Lillevägen 3, 123 45 Storstad</address>. När vi pratade sa hon att det bästa sättet att nå henne var via e-post och gav mig kontaktdetaljerna <email>anna.karlsson@email.com</email>.
-
-Sedan gick vi och satte oss på ett litet kafé i stan. Vi började prata om alla möjliga saker. Under samtalet nämnde hon plötsligt att hon förlorat sitt bankkort. Hon beskrev det som ett vanligt belastningskort med sitt bankkonto <id>1234-567890</id> kopplat till det.
-
-Jag frågade om hon hade spärrat det, och hon sa att det hade hon faktiskt inte hunnit göra än eftersom hon varit så distraherad av sin vilda dag. Jag uppmanade henne verkligen att göra det så fort som möjligt. Hennes bankkort <credit_card>XXXX-XXXX-XXXX-XXXX</credit_card>, säkerhetskod och utgångsdatum är all information som ingen borde ha tillgång till om de inte absolut behöver det.' 
-
-Observera att alla uppstående 'X' i texten representerar slumpmässiga siffror.

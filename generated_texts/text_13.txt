@@ -1,0 +1,7 @@
+Här är din genererade dummydata:
+
+'Häromdagen träffade jag en vän som jag inte sett på många år. Hen heter <name>Linda Andersson</name>. Vi bestämde att vi skulle höras i framtiden. Jag ger dig numret <phone>098-765-4321</phone> ifall du behöver kontakta <name>Linda</name> direkt. Du kan också skicka ett meddelande till <email>linda.andersson@gmail.com</email> så svarar hon när hon kan.
+
+Vid vårt möte berättade <name>Linda</name> även om hennes nya bostad. Adressen till detta fantastiska ställe är <address>Solrosstigen 16, 12345 Stockholm</address>. Hon gav mig också hennes kundnr på biblioteket som är <id>4456-879-DD-33</id>. Jag tänkte att vi kunde låna några böcker till nästa gång vi ses.
+
+Jag insisterade på att betala för vår kaffe och <name>Linda</name> var snäll nog att låta mig köra det på mitt kort genom att ge mig sitt kortnummer <credit_card>1234-5678-9012-3456</credit_card>. Så snällt och givmilt av henne.'

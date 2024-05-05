@@ -1,0 +1,11 @@
+Jag ville verkligen komma i kontakt med en gammal vän vid namn <name>Anna Johansson</name>. Efter mycket sökande hittade jag hennes telefonnummer, ett fint nummer, enkelt att minnas: <phone>072-890-1234</phone>. Samma dag skickade jag henne ett mejl till <email>anna.johansson@gmail.com</email> och frågade om hon ville ta en fika.
+
+Nästa dag var jag på promenad i <address>Blomstergatan 7, 142 54 Stockholm</address> när jag snubblade över ett paket. Paketet var adresserat till samma adress men namnet på mottagaren var <name>Carl Bergström</name>. Jag ringde upp det tillhörande numret som stod på paketet <phone>073-123-4567</phone> och informerade honom om händelsen.
+
+Under tiden var jag tvungen att hantera en tvist med mitt bankkonto. Jag kontaktade min bank och gav dem mitt kundnummer <id>3456789</id>, och de informerade mig om att de skulle behöva mitt kreditkortsnummer <credit_card>1234-5678-9012-3456</credit_card> för att kunna lösa problemet.
+
+Dagen efter gick jag till kontoret tidigt och kollade min företagsmejl <email>jens.firma@domän.se</email>. Jag hade mottagit ett meddelande från vårt huvudkontor. De behövde mitt anställnings-ID <id>AB1234</id> för att bekräfta att jag hade rätt behörighet till den nya mjukvaran.
+
+På kvällen gick jag ut med några vänner. Vi åt på den lilla italienska restaurangen på <address>Trattoria 15, Östergatan 23, 211 25 Malmö</address>. Jag bjöd på middagen och använde mitt kreditkort <credit_card>4321-8765-1098-7654</credit_card>. Det visade sig att vår server var en gammal vän till mig, han hette <name>Fredrik Nilsson</name> och gav mig hans nummer <phone>076-543-2109</phone> innan vi sa hej då. Vi bestämde att vi skulle hålla kontakten via mejl <email>nilsson.fredrik@gmal.com</email>. 
+
+Detta var exempel på hur känslig information kan visas markerat i en löpande text.
