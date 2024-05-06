@@ -1,9 +1,17 @@
-"Det är en vanlig dag på vårt kontor när vi välkomnar vår nye medarbetare, <name>Emma Johansson</name>. Emma bor på <address>Blommvägen 10, 12345, Stockholm</address>. Jag fick chattar till mig och frågade efter hennes kontaktdetaljer för att kunna skicka välkomstmaterial från HR-avdelningen. Emma svarade omedelbart och gav mig hennes mobilnummer <phone>+46 700 456 123</phone> och sin e-postadress <email>emma.johansson@example.com</email>. 
+Här kommer några exempel på träningsdata som du kan använda för din modell.
 
-När hennes välkomstmaterial var klart för leverans, skrev jag in <id>LE123JH56</id> i vårt interna spårningssystem för att följa leveransen. Samtidigt fick jag också ett mejl från vår redovisningsavdelning som bad mig att sammanställa alla nya anställdas betalningsuppgifter. 
+1. 'Jag var på caféet och träffade en tjej som heter <name> Anna Andersson </name>. Hon arbetar nuförtiden på stadens bibliotek och gav mig hennes telefonnummer <phone> 098-765-4321 </phone> om jag skulle vilja besöka.'
 
-När jag frågade Emma om denna information blev hon glad att vi valde att betala ut löner utan fysiska checkar. Hon gav mig sitt kreditkortsinformation <credit_card>1234 5678 9012 3456, 789, 05/24</credit_card> för att sätta upp sin månatliga direktbetalning. 
+2. 'Skickade nyligen ett paket till min goda vän <name> Oskar Pettersson </name> som bor i <address> Grönvägen 5, 12345 Stockholm </address>. Vi använder nämligen samma leveranstjänst, så jag känner till hans spårningsnummer <id> PKG5643XYZ </id>.'
 
-Vi var glada att ha Emma på vårt team och såg fram emot att arbeta tillsammans."
+3. 'För några dagar sedan träffade jag min gamle kompis <name> Linnea Karlsson </name>. Hon gav mig sin mail id <email> linnea.karlsson@maildomain.com </email> och sa att hon gärna ville hålla kontakten mer frekvent.'
 
-Observera: Dessa uppgifter är rena fantasier och har ingen koppling till verkliga människor eller händelser.
+4. 'Jag har en arbetskamrat som heter <name> Erik Johansson </name> och han bor på <address> Blomstergatan 23, 67890 Göteborg </address>. Vi delar det samma medlemsnummer <id> MEMB12345 </id> i fitness-klubben.'
+
+5. 'Min bror <name> Oliver Nilsson </name> bor utomlands, så vi brukar mestadels kontakta varandra via mail <email> oliver.nilsson@maildomain.com </email> eller telefon <phone> +1-223-334-4455 </phone>.'
+
+6. 'Just idag åkte jag taxi och chaufförens namn var <name> Ida Bergström </name>. Hon berättade att hennes medlemsnummer <id> CAB1234 </id> hos taxibolaget och nämnde även att jag kunde kontakta henne på <phone> 234-567-8901 </phone> ifall jag behövde ett åk igen.'
+
+7. 'Min syster <name> Emma Gustavsson </name>, hon bor på <address> Smågatan 12, 34567 Lund </address>. Om du behöver nå henne kan jag ge dig hennes e-postadress <email> emma.gustavsson@maildomain.com </email>.'   
+
+Observera att all information i dessa meningar är fullständigt fingerad och inte representerar riktiga individer eller identifierande information.

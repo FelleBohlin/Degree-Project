@@ -1,11 +1,9 @@
-För några dagar sedan befann jag mig på en kafeteria där jag träffade en gentleman. Hans namn var <name>Andersson, Karl</name>. Vi utbytte ömsesidigt våra detaljer och han gav mig sitt telefonnummer <phone>073-984-5678</phone>. Han bor i en sjöstad <address>Lakeside Avenue 10, 12345 Malmö</address>.
+"Häromdagen stötte jag på en individ vid namn <name> Sara Johansson </name>. Hon delade med sig av sitt telefonnummer <phone> 070-123-4567 </phone> samt hennes adress <address> Solskensgatan 3, 12345, Solby </address>. Hon gav mig dessutom hennes e-postadress <email> sara.johansson@mail.com </email> och bad mig kontakta henne om jag hade fler frågor. 
 
-Jag fick även hans e-postadress <email>karl.andersson@fiktivmail.se</email>. Mest överraskande var att han också gav mig sitt ID-nummer <id>SE197406182356</id>, vilket jag fann lite konstigt. Han ville att jag skulle hjälpa honom med ett tekniskt problem, därav delade han även information om sitt kreditkort <credit_card>1234 5678 9000 1234</credit_card>.
+Hennes identifieringsnummer var märkligt nog <id> ABC123 </id> och hon berättade att hon hade fått det när hon tecknade sitt medlemskap i klubben. Det var något hon nämnde flera gånger under vår konversation.
 
-Efter att ha avslutat sitt kaffe, gick han hastigt iväg, men glömde kvittot på bordet som hade sitt flygbiljettnummer <id>SK5678C</id>. Jag tänkte att jag borde återlämna det till honom, så jag skickade honom ett e-postmeddelande till <email>karl.andersson@fiktivmail.se</email>.
+Jag mötte även hennes vän, <name> Erik Karlsson </name> samma dag. Han gav mig sitt telefonnummer <phone> 073-987-6543 </phone> och address <address> Blomstervägen 9, 54321, Blomtad </address>. Hans e-postadress är <email> erik.karlsson@mail.com </email> och identifierare är <id> XYZ789 </id>.
 
-Senare samma dag fick jag samtal från ett nummer jag inte kände igen. Det var <phone>076-789-0123</phone>, jag minns att jag trodde att det var Karl men det var någon annan.
+Strax innan vi skildes åt berättade <name> Erik Karlsson </name> att han just fått ett nytt kreditkort och var stolt över sitt kortnummer <credit_card> 9876-5432-1098-7654 </credit_card>, men jag försäkrade honom att det inte var säkert att dela med sig av sådan känslig information. 
 
-Alla dessa händelser gjorde mig nyfiken och jag undrade varför han gav mig så mycket information, kanske var det bara en slump. Men jag försäkrade mig om att jag inte skulle använda informationen på ett olämpligt sätt. 
-
-Så här går livet på i mitt jobb, ibland möter jag människor som <name>Andersson, Karl</name> och ibland bara förbigående främlingar. Varje dag är en ny upplevelse och varje människor jag möter lämnar ett nytt minne.
+Därefter gick vi våra egna vägar, med löften om att hålla kontakten och kanske ses igen i framtiden."

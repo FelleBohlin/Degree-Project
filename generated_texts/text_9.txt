@@ -1,9 +1,7 @@
-Jag var på en konferens och jag träffade en inspirerande talare vid namn <name>Anna Karlsson</name>. Vi diskuterade en stund och vid slutet av konversationen gav hon mig sitt visitkort med hennes telefonnummer <phone>987-654-3210</phone> och hennes e-postadress <email>anna.karlsson@företag.com</email>.
+Under min resa igår stötte jag på en kvinna vid namn <name> Sara Lindqvist </name>. Vi började prata och hon delade med sig av sitt telefonnummer <phone> 07X-XXX-XX-XX </phone> för att vi skulle hålla kontakten. När vi var på väg att skiljas åt, frågade hon mig om jag kan skicka några detaljer via e-post och gav mig då hennes e-postadress <email> sara.lindqvist@testmail.com </email>.
 
-Senare på dagen, när jag återvände hem, passerade jag <name>Jakob Nilsson</name>'s hus på <address>Vasagatan 15, 111 20 Stockholm</address>. Vi pratade en stund och han berättade att han nyligen bytt jobb. Han gav mig sitt nya arbetsnummer <phone>546-789-1234</phone>.
+Sara sa mig att hon jobbade för ett stort företag och hennes ID var <id> 5678ABCD </id>. Jag tyckte det var väldigt spännande och ville lära mig mer om hennes arbete. Sara berättade om en restaurang nära hennes hem och gav mig hennes adress <address> Storgatan 123, 456 78 Stockholm, Sverige </address> för att vi skulle kunna mötas där igen. 
 
-Dagen efter besökte jag en bekant, <name>Ingrid Johansson</name>, på hennes arbetsplats. Hon skickade mig en inbjudan via e-post tidigare så jag hade hennes e-postadress <email>ingrid.johansson@arbetsplats.se</email>. Hon introducerade mig för sin kollega <name>Olle Pettersson</name> som gav mig sitt medlemsnummer <id>OP789123</id>.
-
-Senare på veckan, fick jag en god vän <name>Anna-Sara Lind</name> på besök. Vi samtalade om en gemensam resa vi planerar och hon gav mig sitt biljettnummer <id>ASL456987</id>. I samma konversation bytte vi kreditkortsinformation för att dela på kostnaderna. Hennes kreditkortsuppgifter är <credit_card>1234 5678 9012 3456, säkerhetskod 789, utgångsdatum 01/24</credit_card>. 
-
-Allt detta hände helgen när jag besökte <name>John Doe</name> på hans adress på <address>123 Sveavägen, 113 83 Stockholm</address>. Han hade skickat mig ett brev med id <id>JD112233</id> och under vår fika ville han registrera ett nytt e-post <email>john.doe@domän.se</email>.
+Under vår konversation uppdagades att hon nyligen tappat bort sitt kreditkort och behövt ansöka om ett nytt. Hon berättade att hon lärt sig sitt nya kortnummer utantill, vilket var <credit_card> 1234 5678 9012 3456 </credit_card>.
+  
+För mig var detta en härlig dag fylld med spännande samtal och jag ser fram emot att träffa <name> Sara Lindqvist </name> igen.

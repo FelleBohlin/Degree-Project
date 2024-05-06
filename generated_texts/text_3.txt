@@ -1,9 +1,7 @@
-Under min resa till Göteborg, jag träffade ett intressant par på ett café. Paret, <name>Anna och Erik Nilsson</name>, var mycket trevliga. Efter en måltid, utbytte vi kontaktinformation. <name>Anna Nilsson</name> gav mig sitt telefonnummer <phone>070-123-4567</phone> och <name>Erik Nilsson</name> delade sitt e-postadress <email>erik.nilsson@gmail.com</email>.
+Igår mötte jag en otrolig person vid namn <name> Anna Persson </name>. Hon var så vänlig att ge mig hennes kontaktinformation. Hennes telefonnummer är <phone> 08-123-4567 </phone> och du kan också nå henne genom hennes e-postadress <email> anna.persson@gmail.com </email>.
 
-När jag lämnade caféet, jag märkte att jag hade glömt min väska. Jag ringde till <phone>070-123-4567</phone> för att meddela om min väska. Lyckligtvis, <name>Anna</name> hade sett det och har lagt den undan. Hon berättade att hon bodde precis runt hörnet på <address>Götgatan 23, 41116 Göteborg</address> och jag kunde komma när som helst för att hämta den.
+Hon bor i den pittoreska lilla staden <address> Kungsör, Södra Alle 23, 73635 </address>. Under vårt samtal nämnde hon att hon var medlem i en särskild bokklubb och delade sitt unika medlemsnummer <id> AP7896BCD </id>. 
 
-På vägen till hennes <address>Götgatan 23</address>, jag kom ihåg att jag hade lämnat mitt idkort <id>123456-7890</id> i väskan. När jag kom fram till adressen, jag försäkrade att allt var i väskan, inklusive mitt idkort <id>123456-7890</id>.
+En intressant detalj som hon nämnde var att hon nyligen fick sitt nya kreditkort, och dessutom, för att vara extra säker, håller hon alltid sitt <credit_card> kreditkort </credit_card> är numrerat och kodat noggrant. Naturligtvis delade hon inte de detaljerna med mig och vi behöver vara noga med att skydda den typen av information. 
 
-Senare, <name>Erik</name> kontaktade mig via e-post på <email>erik.nilsson@gmail.com</email> och bad om det kreditkortnummer som han hade lånat för att betala för kaffet. Jag gav honom <credit_card>5412 3456 7890 1234</credit_card>, som vi hade använt för att betala.
-
-Den här upplevelsen påminde mig om det underbara i spontana samtal och hur det kan leda till oväntade vänskap.
+Så här går livet vidare, vi träffar nya människor, vi delar våra livserfarenheter, och samtidigt har vi alltid vårt privatliv och personlig säkerhet i åtanke. Lyssnar på <name> Anna Persson's </name> berättelse, och se hur hon skyddar sin <credit_card> kreditkortsinformation </credit_card>, gör mig mer medveten om vikten av att skydda vår personliga information.

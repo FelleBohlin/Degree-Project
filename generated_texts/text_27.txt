@@ -1,11 +1,7 @@
-Igår hade jag möjligheten att träffa en intressant dam vid namn <name>Anna Lindberg</name>. Hon berättade att hon nyligen hade flyttat och var nu bosatt i en gemytlig lägenhet på <address>Blågatan 5, 12345 Stockholm</address>. Anna gav mig också sitt telefonnummer <phone>010-123-4567</phone> ifall jag ville diskutera mer om bokklubben vi båda var intresserade av.
+Förra veckan på caféet träffade jag en vänlig person som kallade sig för <name> Anna Johansson </name>. Hon verkade vara i en brådska och gav mig hennes visitkort där hennes telefonnummer <phone> 098-765-4321 </phone> var tydligt uttryckt. Anna bodde på <address> Sveavägen 15, 111 57 Stockholm </address> och hon mailade ofta så jag fick veta hennes e-postadress <email> anna.johansson@hotmail.com </email>. 
 
-Hennes vän, <name>Magnus Green</name>, slutade också förbi. Han checkade in på sin arbetsplats via en app med sin anställnings-identifierare <id>AB1234</id>. Det var fascinerande att se hur teknologin har förändrat många aspekter av vår vardag.
+Efter den dagen var jag tvungen att fixa ett fraktproblem med en av mina paket. Kundtjänstrepresentanten hjälpte mig att lösa problemet och gav mig mitt spårningsnummer som var <id> 1Z879E93039874563 </id>. Paketet skulle levereras till min addres <address> Drottninggatan 28, 411 14 Göteborg </address>. 
 
-Därefter, <name>Lisa Karlsson</name>, en annan bekant av Anna, nämnde att hon behövde byta sitt kreditkort och hade bara fått ett nytt kreditkortsnummer från sin bank <credit_card>4321 5678 9012 3456</credit_card>. Hon var noga med att inte avslöja säkerhetskoden och utgångsdatumet. 
+En annan gång beställde jag något online. När jag betalade fick jag ett kvitto på min e-postadress <email> lisa.pettersson@gmail.com </email> där mitt kreditkort <credit_card> 1234-5678-9012-3456 </credit_card> var maskerat efter betalningen. Jag sparade kvittot eftersom mitt ordernummer <id> 5678ABCD </id> var listad på det.
 
-För att få en kaffeinbjudan till nästa bokklubbmöte delade Anna sin email <email>anna.lindberg@hotmail.com</email> med mig. Hon frågade mig sedan om mitt namn <name>Alex Olsson</name> för att kunna lägga till mig i bokklubbsmaillistan. Jag var tvungen att ge mitt medlemsnummer <id>KL5678</id> för att bli inbjuden till klubbens privata evenemang.
-
-Nästa gång vi träffas kommer vi att diskutera detaljerna vid <address>Ljusgatan 7, 67890 Göteborg</address>. Om något ändras kommer de att skicka ett uppdaterings-email till mig på <email>alex.olsson@gmail.com</email> och ringa mig på mitt telefonnummer <phone>020-987-6543</phone>.
-
-Allt detta hände medan jag browade på <address>Småstadsgatan 12, 11122 Malmö</address> efter en lång dag. Jag hoppas verkligen jag får träffa dessa underbara människor igen.
+Jag möter ofta olika personer i mitt jobb. En av mina kunder, <name> Lars Nilsson </name>, ringde mig på mitt arbetsnummer <phone> 234-567-8901 </phone> angående en affärsfråga. Efter samtalet mailade han mig några dokument till min arbets-e-postadress <email> lisa.p@företaget.se </email>. Vi planerade att träffa varandra på hans kontorsadress <address> Kungsgatan 2, 111 43 Stockholm </address>.

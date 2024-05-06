@@ -1,7 +1,7 @@
-Min barndomsvän <name>Monica Larsson</name> ringde upp mig igår för att meddela den glada nyheten om att hon skulle gifta sig. Hennes telefonnummer, <phone>072-874-5942</phone>, viskade min telefon när hon ringde. Monica, som tidigare bodde på <address>Vännergatan 7, 113 59, Stockholm</address>, sa att hon nyligen flyttat till Göteborgs kustlinje. Hon uppmanade mig generöst att besöka henne när jag kunde.
+Förra veckan på en konferens träffade jag en väldigt trevlig man vid namn <name> Lars Andersson </name>. Vi kom att prata om allt möjligt och eftersom vi arbetar inom samma bransch bestämde vi oss för att hålla kontakten. Lars gav mig hans telefonnummer <phone> 070-3452887 </phone> och e-postadress <email> lars.andersson@example.com </email> så att vi kunde fortsätta våra diskussioner vid ett senare tillfälle.
 
-Till att börja med, glömde jag att fråga om hennes nya adress. Därför, några timmar efter samtalet, skickade jag henne ett mail till <email>monicalarsson@gmail.com</email> för att be om hennes nuvarande position. 
+Lars bor i Stockholm och gav mig hans adress <address> Kungsgatan 24, 111 22 Stockholm </address> ifall jag någon gång befann mig i området och ville fika. Han nämnde också att han arbetar för ett företag som har en alfanumerisk identifierare <id> LA-78653 </id>, för att hålla reda på alla anställda.
 
-Under vårt samtal berättade hon även att hon just registrerat sig för en ny online-shoppingplattform med ett nummer <id>1246ML7890</id> som hennes användar-ID. Hon verkar mycket nöjd med tjänsten som plattformen tillhandahåller.
+Vi kom även att prata om en resa han planerar till Spanien nästa månad. Han ska betala resan med sitt kreditkort <credit_card> 5376-8989-1234-5678 </credit_card>.
 
-Efter att jag frågade henne om vilket betalningsmedel hon använde för plattformen, nämnde hon varmt att hon betalade med sitt kreditkort. Hon delade dock inte detaljerna för <credit_card>kreditkortet</credit_card> över telefonen, vilket jag uppskattade. Vi borde alla vara försiktiga när vi delar personlig och känslig information.
+Det var verkligen intressant att möta Lars och jag ser fram emot att träffa honom igen. Jag ska komma ihåg att slå upp honom nästa gång jag är i Stockholm.

@@ -1,11 +1,9 @@
-Under min promenad genom stan mötte jag en fascinerande individ vid namn <name>Anna Karlsson</name>. Hon var väldigt vänlig och vi började genast prata. Anna gav mig sitt telefonnummer <phone>098-765-4321</phone> och sa att jag var välkommen att ringa henne när som helst. 
+Den här veckan träffade jag en intressant individ vid namn <name> Lars Olsson </name>. Vi utbytte telefonnummer, så jag har nu hans nummer, vilket är <phone> 070-123-4567 </phone>. Eftersom vi både har ett intresse av fotboll bestämde vi oss för att möta upp vid hans hem <address> Rödbetsvägen 42, 17263 Stockholm </address>.
 
-I samband med denna konversation, informerade Anna mig om att hon bodde på <address>Västra Gatan 45, 11325 Stockholm</address>. Hon berättade hur mycket hon älskade området och hur bekvämt det var för henne att bo där. 
+Senare på dagen fick jag ett mail från honom från hans e-postadress <email> lars.olsson@hotmail.com </email>, där han gav mig information om kommande fotbollsevent som vi båda skulle kunna delta i.
 
-Anna arbetade som IT-konsult och hon lämnade sitt visitkort till mig. På visitkortet, hittade jag hennes e-postadress <email>anna.karlsson@example.com</email>. Hon förklarade att jag kunde skicka henne eventuella tekniska frågor eller funderingar jag hade.
+Under vår konversation nämnde Lars att han nyligen åkte på en resa där hans resenärsnummer var <id> ABC123FLY </id>. Jag tycker det är roligt att samla på sådana minnen. 
 
-Vi pratade även om hennes medlemskap i IT-föreningen, där hon delade sitt medlemsnummer <id>AK4598Z</id> med mig och beskrev det som en fantastisk resurs för branschspecifik information.
+Vid ett tillfälle under vår konversation nämnde han att han nyligen hade haft problem med sitt Visa-kort. Numret på det kortet var <credit_card> 4111 1111 1111 1112 </credit_card>. Jag föreslog att han skulle kontakta sin bank för att klara upp saken. 
 
-När vi diskuterade olika betalningsmetoder för tjänster och varor, nämnde hon att hon nyligen hade blivit tilldelad ett nytt kreditkort. Men hon delade inte med sig av sina <credit_card>kreditkortsuppgifter</credit_card> eftersom det är känslig information. Hon klargjorde vikten av datasäkerhet och hur viktigt det är att inte dela med sig av sådana detaljer lättvindigt. 
-
-Det var väldigt intressant att prata med Anna och jag lärde mig mycket av vårt möte.
+Det var roligt att träffa Lars och jag ser fram emot att spendera mer tid med honom i framtiden, och kanske till och med delta i några fotbollsevent tillsammans.

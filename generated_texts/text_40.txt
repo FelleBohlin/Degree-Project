@@ -1,7 +1,15 @@
-Jag var ute och handlade i butiken på <address>Storgatan 8, 12345 Göteborg</address> tidigare idag. Medan jag handlade stötte jag på en gammal vän som jag inte sett på länge. Han heter <name>Peter Nilsson</name>. Vi stod och pratade en stund och bestämde oss för att ta en fika senare i veckan. Peter gav mig sitt telefonnummer: <phone>072-345-6789</phone>.
+Då jag genomgick handlingarna jag fick igår, upptäckte jag ett personnamn skrivet på ett av dokumenten. Det stod <name> Lisa Andersson </name>. Intressant nog var hennes telefonnummer <phone> 098-765-4321 </phone> också på dokumentet. 
 
-På vägen ut från butiken stannade jag till vid brevlådorna och såg att jag fått post. En räkning som behövde betalas. Jag läste igenom räkningen och såg att mitt konto nummer <id>123456789</id> var markerat på toppen av räkningen, och direkt under det stod mitt namn, <name>Lisa Andersson</name>.
+Efter att ha besökt min gamla hemstad, träffade jag <name> Erik Jonsson </name> vid den lilla butiken på hörnet av <address> Storgatan 21, 11111 Stockholm </address>. Vi bytte telefonnummer och nu har jag <phone> 321-654-9870 </phone> inskrivet i min telefon.
 
-När jag kom hem, loggade jag in på min e-post <email>lisa.andersson@exempel.com</email> och såg att jag hade fått ett e-postmeddelande från mitt kreditkortföretag. De ville bekräfta att min senaste transaktion, med mitt kreditkort nummer <credit_card>1234 5678 9123 4567</credit_card>, hade genomförts korrekt. Jag kollade igenom transaktionen och allt såg ut som det skulle.
+Jag fick ett mail från <email> anna.karlsson@mail.com </email> som hade uppgifter om vårt senaste klubbevent. Hon inkluderade också sitt telefonnummer <phone> 456-789-1230 </phone> ifall vi behöver komma i kontakt med henne.
 
-Det var en ganska händelserik dag, men nu är det dags att slappna av och kolla på en film.
+Företagen kräver ofta att du anger ditt medlemsnummer när du gör transaktioner med dem. Min kompis <name> Peter Larsson </name> har till exempel användandet av sitt medlemsnummer <id> PL1234XYZ </id> för transaktioner med sitt gym.
+
+Jag mottog ett paket tidigare idag. På leveransbeviset stod mitt namn <name> Mia Johansson </name> och leveransadressen <address> Bergslagsvägen 5, 12345 Göteborg </address> tydligt. Paketet hade också ett spårningsnummer <id> 1234ABC5678XYZ </id>.
+
+Min kollega <name> Karl Nilsson </name> förlorade sitt kreditkort igår. Han hade kreditkortsinformationen <credit_card> 4567-8901-2345-6789, 123, 12/24 </credit_card> inskrivna någonstans, vilket han måste ha för att anmäla förlusten till banken. 
+
+När jag kom hem fann jag ett mejl från <email> erik.persson@assist.com </email> som begärde mitt medlemsnummer <id> MP5678XYZ </id> för supportärendenom jag har några frågor om produkten jag köpte förra veckan. 
+
+UIDAI har tilldelat varje indisk medborgare ett unikt identifieringsnummer, som kallas Aadhar. Min vän från Indien, <name> Aarav Patel </name>, har t.ex. numret <id> 1234 5678 9012 </id>.

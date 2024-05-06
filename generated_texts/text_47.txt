@@ -1,11 +1,13 @@
-Under de senaste veckorna har jag haft flera interageringar med interessanta individer. En av de mest minnesvärda mötena var med en kvinna vid namn <name>Anna Karlsson</name>. Hon gav mig sitt telefonnummer som var <phone>+46 700 123456</phone> och bad mig att kontakta henne om jag skulle behöva mera information för mitt projekt. 
+Här följer några exempel:
 
-Under vårt samtal berättade hon att hon bodde på <address>Solrosstigen 17, 123 45 Stockholm</address> och att hon älskade att bo i den staden för dess dynamiska natur och kulturella rikedom. Tillsammans med detta gav hon mig hennes e-postadress <email>anna.karlsson@gmail.com</email> och uppmuntrade mig att skicka ett mail om jag någonsin behövde hennes expertis.
+1. Häromdagen träffade jag en vän, hans namn är <name> Erik Andersson </name>. Vi pratade om gamla minnen och skrattade mycket. På vägen hem insåg jag att jag glömt min mobil hemma och bad honom att skicka ett sms till min bror från sin telefon. Hans telefonnummer var <phone> 072-425-5698 </phone>.
 
-Ett par dagar senare mötte jag en man som kallade sig för <name>Magnus Johansson</name>. Han delgav mig sitt medlemsnummer <id>MK123456XY</id> för den skrivargrupp han var en del av. Han försäkrade mig om att med detta kunde jag lätt få insikt i deras senaste verk och diskussioner.
+2. Min fasters granne, en vänlig äldre dame vid namnet <name> Margareta Johansson </name> bor i den mysigaste lilla stugan du kan föreställa dig, belägen på <address> Solgatan 14, 12345 Stockholm </address>.
 
-Jag hade också möjligheten att träffa <name>Maria Eriksson</name>, chef för en välrenommerad bank. Hon gav mig sitt affärsnummer <phone>08-123 45 67</phone> och sa att jag ska diskutera med henne om jag är intresserad i finansvärlden.
+3. Jag har en vän som jobbar utomlands för närvarande. Hans namn är <name> Tony Stark </name>. Jag brukar skicka honom e-post för att se hur han har det. Hans e-postadress är <email> stark.tony@avenger.com </email>.
 
-I mitt möte med <name>Andreas Nilsson</name> fick jag lära mig så mycket om säkerhet inom E-handeln. När vi diskuterade om säkerhetsresultat, nämnde han att samtliga <credit_card>4111 1111 1111 1111</credit_card> kortnummer borde vara ur användning för att förhindra obehörigt användande.
+4. Mina vänner och jag hade en liten återträff. En av de gamla kompisarna, <name> Karin Lindgren </name> berättade om sitt jobb på ett försäkringsbolag. Nästa dag skickade hon mig sitt medlemsnummer <id> KL567U89 </id> ifall jag skulle vilja teckna en försäkring.
 
-Så här i takt med att jag träffar nya människor kan jag samla data och bearbeta den för att förstå olika aspekter av samhället bättre. Varje interaktion har låtit mig lära mig och växa på olika sätt. Och det är bara början!
+5. Min kompis, <name> Peter Johansson </name> berättade för mig om sin resa till Italien. För att hyra bil i landet behövde han använda kreditkortet som slutade som <credit_card> xxxx-xxxx-xxxx-2871 </credit_card> och det fungerade smidigt för honom. 
+
+Kom ihåg att ovanstående information är påhittad och ingenting stämmer överens med verkliga personer eller deras personuppgifter.

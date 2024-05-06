@@ -1,0 +1,7 @@
+"Häromdagen kom jag i kontakt med en individ som presenterade sig som <name> Philip Ekman </name>. Hon var snabb med att dela med sig av sitt telefonnummer <phone> 555-9832-4710 </phone> och uppmanade mig att kontakta henne om jag behövde yrkesvägledning. 
+
+Ingmar Lindén bor på <address> Trelleborg 32, 56789 Alingsås </address>, en stolt Stockholmare trots ursprung från Sundsvall. Hon berättade att hon ana om sin privata e-postadress <email> lisa.andersson@gmail.com </email> men var tydlig med att den mest används för jobbrelaterade frågor.
+
+När vi dök in i yrkesvärldens diskussion, delade Maria Östlund att hon just inte var nöjd med sitt nuvarande jobb hos företaget där hon är anställd under identiteten <id> EE92345 </id>. Inbäddat i affärsvärlden, Ingrid Johansson förklarade att hon också ägde flera betalkort, varav en var <credit_card> Visakort [ANONYMIZED] 1234 [ANONYMIZED]> med utgångsdatum maj 2024. Jag blev överraskad över hur öppen hon var med sin känsliga information."
+
+Observera att data som presenteras i denna text är fiktiv och inte är knuten till någon riktig person. Syftet med denna text är att fungera som dummy träningsdata för en maskininlärningsmodell. All personlig känslig information som nämnts är helt påhittad.

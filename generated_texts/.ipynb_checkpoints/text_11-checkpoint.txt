@@ -1,9 +1,0 @@
-Idag hade jag nöjet att träffa en kvinna vid namn <name>Anna Andersson</name>. Hon arbetar på ett IT företag i centrala Stockholm. Vi pratade om olika projekt och hon nämnde att om jag ville fortsätta diskussionen skulle jag ringa henne på <phone>098-765-4321</phone>. 
-
-Efter samtalet gav hon mig sitt visitkort där jag såg att hon även inkluderade hennes adress. Hon bor på <address>Storgatan 1, 111 11 Stockholm</address>. Hon förklarade att eftersom hon nu jobbar hemifrån kan jag skicka några dokument direkt till hennes hem. 
-
-Senare på kvällen, efter att ha kommit hem och reflekterat över vårt samtal, bestämde jag mig för att skicka henne ett e-postmeddelande. Hennes e-postadress var <email>anna.andersson@itföretag.se</email>.
-
-I mitt arbete är det nödvändigt att systematiskt hålla reda på alla affärskontakter, så jag inkluderade hennes kontaktdata i mitt CRM-system under det unika identifierandenumret <id>ABC123</id>. 
-
-För att underlätta vår kommande affärsrelation, var hon också vänlig att dela med sig av kreditkortsuppgifter för framtida fakturor. Hennes kreditkortsuppgifter är markerade i min anteckningsbok som <credit_card>1234 5678 9012 3456</credit_card>.

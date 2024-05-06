@@ -1,13 +1,11 @@
-Här är din löpande text med dummy data av påhittad personlig känslig information:
+Det var en vacker morgon och jag hade bestämt mig för att besöka en lokal kafeteria. Här var jag, sippar på min morgonkaffe när jag såg en gammal bekant av mig, <name> Erik Nilsson </name>. Han var en gammal arbetskamrat som jag inte har sett på länge. Erik kom fram till mig och vi började prata om gamla tider. Han ville hålla kontakten och gav mig därför hans telefonnummer <phone> 070-123-4567 </phone>.
 
-"Affärsresan till Malmö var något ovanlig. Jag kom i kontakt med en person på konferensen på Turning Torso som presenterade sig som <name>Lisa Nilsson</name>. Lisa arbetar för ett framstående företag inom tech-industrin och hon gav mig ett visitkort med hennes kontaktinformation. Hennes telefonnummer var <phone>070-123-4567</phone>, och hennes e-postadress var <email>lisa.nilsson@techcomp.com</email>. 
+Senare samma dag, jag var tillbaka hem, bestämde jag att skicka ett mail till min vän Erik. Han hade tidigare delat med mig sin e-mailadress <email> erik.nilsson@mail.com </email>. Efter att ha delat några hälsningar i e-posten skickade jag den till honom.
 
-Efter konferensen bad hon mig om att kontakta henne för att diskutera vidare om ett eventuellt samarbete. Hon skrev ner sin hemadress på visitkortet. Hon bor på <address>Stortorget 9, 211 34 Malmö</address>. 
+Efter några dagar, Erik och jag bestämde att träffas igen. Han bor inte långt ifrån mitt hus. Han bor på <address> Solgatan 9, 123 45, Stockholm </address>. Vi hade en bra tid att minnas gamla minnen.
 
-Jag kollade upp företaget hon arbetade till och fann ut att deras företags-ID var <id>556301-1472</id>. Hon talade också om något om ett projekt de just nu jobbade på, kodnamnet var <id>ProjektX12Y</id>. 
+Erik är medlem av en lokal bokklubb. Han delade med mig sitt medlemsnummer <id> ABC123 </id> och föreslog mig att också bli medlem. Dagen efter hans förslag beslutade jag att gå till bokklubben och använda Erik's referensmedlemsnummer.
 
-Under vår konversation berättade Lisa att hon nyligen hade genomfört en online-transaktion där hon kul nog skrev sin kreditkortinformation på ett papper för att inte glömma bort det. Kreditkortsinformationen hon skrev ner var <credit_card>1234-5678-9123-4567, 123, 12/25</credit_card>. 
+Erik berättade att han brukade köpa böcker online. Han föreslog en webbplats där de accepterar betalning via kreditkort. Han delade att han slog in sina kortuppgifter och att det var säkert. Men av säkerhetsskäl ska vi aldrig dela <credit_card> kreditkortsinformation </credit_card> med någon, inte ens dina närmaste vänner.
 
-Detta var verkligen en oförglömlig affärsresa."
-
-Observera att all "känslig information" här är slumpmässig och inte representerar faktiska människor, företag eller transaktioner.
+Ovanstående information är endast påhittad för generering av dummy data och har inget att göra med någon levande individ.

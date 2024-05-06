@@ -1,9 +1,7 @@
-Att bo i en småstad kan vara charmigt, likaså gör det Isabella Bergström, känd som <name>Isabella Bergström</name>. Hon bor en vacker liten gata kallad <address>Björklundsgatan 11A, 51732 Borås</address>. Man kan alltid nå till henne på hennes hemtelefon <phone>033-123 4567</phone> eller via hennes arbetslagda mejl <email>isabella.bergstrom@workplace.se</email>. Isabella har alltid tänkt på säkerheten och därför är hon med i ett lokalt grannskapsnätverk, där hon har identifieraren <id>NEI345BGR</id>.
+"Häromdagen stötte jag på en individ vid namn <name>Peter Johansson</name>. Han bor i en liten stad söder om Stockholm på adressen <address>Storgatan 5, 12345 Stockholm</address>. Peter är mycket tekniskt kunnig och erbjuder sin hjälp till folk via hans e-postadress <email>peter.johansson@gmail.com</email>. 
 
-På andra sidan staden bor en gammal vän till Isabella, han heter <name>Erik Olsson</name> och han bor på <address>Granvägen 9, 59840 Vimmerby</address>. Erik är relativt introvert och hittar comfort genom osynlighet, så ingen har egentligen hans telefonnummer. Dock kan du nå honom på hans mejl: <email>erik123@gmail.com</email>.
+Han hjälpte sin granne i förra vecka att lösa ett tekniskt problem med sin dator remot. Han behövde några specifika detaljer om programvaran hon använde. Därför passade hon på att lämna över sitt serienummer <id>SFT123456XYZ</id> till Peter. 
 
-Isabella brukar ofta resa till stora städer och under en av dessa resor mötte hon <name>Johan Pettersson</name>. Han är en affärsman som bor i <address>Sjögatan 45B, 11260 Stockholm</address> och man kan lätt nå honom antingen via hans mobilnummer, <phone>0765-123456</phone> eller hans professionella e-postadress, <email>johan.pettersson@buisnesspro.se</email>. Inför mötet brukar han ge sitt unika affärsnummer till partners: <id>JP7893BUS</id>.
+Peter nämnde också att han köpte en ny cykel nyligen online. För att göra sitt köp, använde han sitt kreditkort <credit_card>1234 5678 9012 3456</credit_card>. 
 
-För affärsmöten använder han alltid sitt kreditkort, och han gav Isabella uppgifter om det, då de skulle dela på en gemensam nota. Hans kreditkortsuppgifter är <credit_card>4492 1234 5678 9012</credit_card>.
-
-Observera att all data ovan är inte verklig, men endast ett exempel på hur sådan känslig information kan vara formaterad i en berättande text.
+I sitt yrkesliv arbetar han som konsult och många gånger sköter han sina affärer via telefon. Om du någon gång skulle behöva nå honom kan hans telefonnummer <phone>070-1234567</phone> komma väl till pass."

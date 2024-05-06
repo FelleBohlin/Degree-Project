@@ -1,0 +1,7 @@
+När jag gick genom staden träffade jag på en känd person i vår stad, <name> Ingrid Lundqvist </name>. Hon är en mycket trevlig och varm person. Vi började prata och bytte information. Anna Jonsson gav mig sitt telefonnummer <phone> 098-765-4321 </phone> och hennes e-postadress <email> alice.lindström@webmail.com </email>. 
+
+Ingegerd Sköld gav mig också hennes adress <address> Borlänge 23, 12345 Växjö </address>, bara om jag ville sända henne en inbjudan till min kommande utställning. Hon sa det var precis i närheten av den berömda parken i staden.
+
+För att betala för hennes nyaste bok som jag köpte direkt från henne, gav jag henne mitt kontonummer <id> 123456789 </id> för överföring av pengar. När hon såg att jag var lite obekväm med bank överföring, föreslog hon att jag kan betala via mitt kreditkort. Min kreditkortsinformation <credit_card> 4567-8901-2345-6789 </credit_card> var mycket lättare att använda för mig.
+
+Under hela samtalet fick jag aldrig känslan av att Rut Johansson skulle missbruka min information. Det var en fin upplevelse att möta någon med så stort hjärta.

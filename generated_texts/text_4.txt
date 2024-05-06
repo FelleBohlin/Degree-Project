@@ -1,5 +1,11 @@
-'För några dagar sedan var jag på ett café där jag träffade på en dam vid namn <name>Anna Karlsson</name>. Hon berättade att hon nyligen flyttat till staden och bodde på <address>Västergatan 3B, 11122 Stockholm</address>. Vi satt och pratades vid en stund, och hon gav mig sitt visitkort som hade hennes professionella <email>anna.karlsson@fiktivbolag.se</email> mejladress och hennes <phone>070-123-4567</phone> mobilnummer på. Anna arbetar som projektledare på ett IT-företag och ska börja ett nytt projekt där hon behöver använda hennes unika <id>PL2022AK567</id> identifierare som projektledare för företags system. 
+En solig dag, hände det sig att jag stötte samman med en vänlig herre vid namn <name> Karl Gustafsson </name>. Han hade just flyttat till min stad och bor på <address> Blomstervägen 9, 12345 Solstad </address>. Eftersom vi fastnade i ett trevligt samtal, bestämde vi oss för att fortsätta diskussionen över telefon. Han gav mig sitt nummer, <phone> 076-123-4567 </phone> och bad mig att ringa nästa gång jag skulle ner till staden.
 
-Innan vi skiljdes åt, kom vi in på ämnet kreditkort och hur det ibland kan vara besvärligt att komma ihåg alla nummer. Skämtsamt nämnde hon sitt kreditkortsnummer <credit_card>4563 7982 1398 4789</credit_card> samt dess utgångsdatum <credit_card>06/24</credit_card>, men hon var noga med att inte avslöja säkerhetskoden för kreditkortet. Jag hoppas vi träffas igen, jag lärde mig mycket från <name>Anna Karlsson</name> och vår diskussion var mycket givande.'
+Faktum var att Karl hade startat en liten firma i Solstad och letade efter potentiella kunder. Han gav mig sitt visitkort där hans e-postadress <email> karl.gustafsson@firman.se </email> var tydligt noterat.
 
-Observera att dessa uppgifter är helt fiktiva och påhittade för detta exempel, de representerar inte verklig personinformation.
+Och på tal om affärer, jag kom ihåg ett minne från förra året när jag köpte en bok på nätet. Säljaren var en dam som hette <name> Anna Jönsson </name> bosatt på <address> Stenåldersgatan 12, 54321 Kalkstad </address>. Jag skickade pengarna till hennes bankkonto, vilket hade numret <id> 1234-5678-9012-3456 </id>. 
+
+Anna använde sin e-postadress <email> anna.jonsson@bookshop.se </email> för att kommunicera med mig om leveransen. Vi utbytte även telefonnummer då jag behövde ta emot boken vid ett visst tid. Hennes telefonnummer var <phone> 079-654-3210 </phone>.
+
+Häromdagen fick jag ett mejl från min bank och de bad mig att uppdatera mina kortuppgifter. Jag har ju mitt kreditkort nummer <credit_card> 4567-8901-2345-6789 </credit_card> samt säkerhetskoden <id> 123 </id> och utgångsdatumet <id> 05/25 </id> på baksidan av mitt kort.
+
+Observera att allt detta är påhittad känslig information som inte hänvisar till verkliga individer eller deras personlig information.

@@ -1,0 +1,15 @@
+Då jag genomgick handlingarna jag fick 1982-10-06, upptäckte jag ett personnamn skrivet på ett av dokumenten. Det stod <name> Sven Möller </name>. Intressant nog var hennes telefonnummer <phone> 098-765-4321 </phone> också på dokumentet. 
+
+Efter att ha besökt min gamla hemstad, träffade jag <name> Viktor Abrahamsson </name> vid den lilla butiken på hörnet av <address> Jönköping 21, Fredriksson & Arvidsson AB </address>. Vi bytte telefonnummer och nu har jag <phone> 321-654-9870 </phone> inskrivet i min telefon.
+
+Jag fick ett mail från <email> anna.karlsson@mail.com </email> som hade uppgifter om vårt senaste klubbevent. Hon inkluderade också sitt telefonnummer <phone> 456-789-1230 </phone> ifall vi behöver komma i kontakt med henne.
+
+Företagen kräver ofta att du anger ditt medlemsnummer när du gör transaktioner med dem. Min kompis <name> Maria Lundberg </name> har till exempel användandet av sitt medlemsnummer <id> PL1234XYZ </id> för transaktioner med sitt gym.
+
+Jag mottog ett paket tidigare idag. På leveransbeviset stod mitt namn <name> Margareta Nilsson </name> och leveransadressen <address> Helsingborg 5, 12345 Östersund </address> tydligt. Paketet hade också ett spårningsnummer <id> 1234ABC5678XYZ </id>.
+
+Min kollega <name> Jenny Karlsson </name> förlorade sitt kreditkort 1963-01-21. Han hade kreditkortsinformationen <credit_card> 4567-8901-2345-6789, 123, 12/24 </credit_card> inskrivna någonstans, vilket han måste ha för att anmäla förlusten till banken. 
+
+När jag kom hem fann jag ett mejl från <email> erik.persson@assist.com </email> som begärde mitt medlemsnummer <id> MP5678XYZ </id> för supportärendenom jag har några frågor om produkten jag köpte förra veckan. 
+
+UIDAI har tilldelat varje indisk medborgare ett unikt identifieringsnummer, som kallas Aadhar. Min vän från Trollhättan, <name> Aarav Patel </name>, har t.ex. numret <id> 1234 5678 9012 </id>.

@@ -1,7 +1,0 @@
-Min bror, vars namn är <name>Oliver Ekman</name>, undervisar i matematik. Jag besökte honom förra veckan till hans adress, <address>Storgatan 12, 45623, Stockholm</address>. Han sa att han hade glömt sin mobiltelefon på kontoret och gav mig sitt reservtelefonnummer, <phone>789-456-1230</phone>, i händelse av att jag behövde nå honom. 
-
-Vi hade en bra middag och pratade om allt från arbete till fritid. Han berättade att han nyligen hade börjat med yoga för att hantera stressen. Efter middagen sa han till mig att om jag någonsin ville prova yoga, han kan ställa upp en session för mig. Han gav mig sitt e-postadress <email>oliver.ekman@gmail.com</email>, så att jag kunde skicka min tillgängliga tid till honom.
-
-Vid ett tillfälle behövde jag låna en bok från hans bibliotek. Han sa att jag behöver en specifik kod för att få tillgång till hans bibliotekskonto. Den numeriska identifieraren var <id>XF12345ABC</id>. Han informerade mig om att detta inte var hans vanliga lösenord, så jag behövde inte oroa mig för några sekretessproblem.
-
-Sist men inte minst, han sa att nästa gång jag behöver en bok, jag kan köpa den själv online, och för det gav han mig till och med sitt kreditkortnummer <credit_card>9876-5432-1098-7654</credit_card>, men insisterade på att jag inte borde missbruka det. Efter besöket kände jag mig verkligen tacksam att ha en så generös och snäll bror.

@@ -1,9 +1,7 @@
-Här är en exempeltext baserad på dina instruktioner:
+"Igår kväll träffade jag en fantastisk person vid namn <name> Anna Johansson </name>. Vi satt på ett café och pratade om allt från boken vi läser till världsfred. Anna gav mig sitt visitkort som hade hennes telefonnummer <phone> 098-765-4321 </phone>, vilket jag tyckte var trevligt av henne. Hon bor i en vacker lägenhet på <address> Smedgatan 8, 54321 Stockholm </address>. 
 
-'Förra veckan besökte jag en vän som bodde på <address>Västervägen 5, 12345 Stockholm</address>. Hans namn är <name>Olof Karlsson</name> och vi har känt varandra sedan barndomen. Under dagen gav han mig ett nytt telefonnummer att nå honom på, det var <phone>070-123-4567</phone>. 
+Vi tänkte köpa biljetter till den kommande fotbollsmatchen tillsammans. Hon gav mig sitt medlemsnummer till klubben <id> FTB12345 </id> så jag kunde köpa biljetterna med hennes rabatt. Hennes e-postadress för bekräftelse av biljetterna är <email> anna.johansson@email.com </email>. Vid detta tillfälle delade vi lite mer personlig information.
 
-Vi hade en intressant diskussion om ett projekt han jobbar på. Han föreslog att jag kunde bidra och skicka mina idéer till hans e-postadress <email>olof.karlsson@example.com</email>. Han skickade senare ett meddelande med sin <id>projektidentifierare ID1234ZT</id> som jag skulle ange i ämnesraden för all vidare kommunikation. 
+Vi började prata om våra reseerfarenheter och hon berättade om sin nyligen avslutade resa där hon bokade sitt hotell med sitt kreditkort <credit_card> 4567-8901-2345-6789 </credit_card>. Det var verkligen en trevlig kväll med levande diskussioner och utbyte av berättelser."
 
-Under lunchen talade vi om resor och Olof nämnde att han nyligen hade ordnat ett nytt kreditkort för hans kommande resa. Jag frågade aldrig om detaljerna, men han nämnde i förbigående att han hade valt att gå med kortet som slutade på <credit_card>5678</credit_card>.'
-
-Observera att den genererade datan här är helt fiktiv och alla likheter med befintliga personer eller verkliga händelser är tillfälliga. Dessa uppgifter ska användas för modellträning och bör hanteras med varsamhet på grund av deras känsliga karaktär.
+Observera: Alla informationer ovan är fiktiva och används endast för demonstration med givet scenario.
