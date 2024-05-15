@@ -1,0 +1,1 @@
+Maria Larsson <address> Torggatan 10, 123 45 Stockholm </address> <phone> 070-123-4567 </phone> <email> maria.larsson@example.com </email> <numerical> 556677-8899 </numerical> <creditcard> 1234-5678-9101-12 </creditcard> <numerical> 850712-1234 </numerical>

@@ -1,0 +1,7 @@
+<name> Anna Larsson </name>
+<phone> 070-123-4567 </phone>
+<address> Solgatan 3, 123 45 Solstad </address>
+<email> maria.johansson@example.com </email>
+<numerical> 987654 </numerical>
+<numerical> ABC123 </numerical>
+<numerical> DEF456 </numerical>

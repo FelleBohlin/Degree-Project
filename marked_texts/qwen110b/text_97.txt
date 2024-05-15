@@ -1,0 +1,1 @@
+<name> Erik Larsson </name> <address> Storgatan 22, 112 56 Stockholm </address> <phone> 070-123-4567 </phone> <email> erik.larsson@exempelmail.com </email> <numerical> 54321-98765 </numerical>

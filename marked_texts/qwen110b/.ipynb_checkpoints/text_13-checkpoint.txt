@@ -1,0 +1,1 @@
+<name>Emma Johansson</name> <phone>070-123-4567</phone> <email>emma.johansson@example.com</email> <address>Storgatan 12, 111 22, Stockholm</address> <numerical>987654321</numerical> <numerical>192.168.1.1</numerical> <numerical>1234-56789012345</numerical> <creditcard>5522-1122-5566-7899</creditcard> <numerical>123</numerical> <creditcard>12/24</creditcard>

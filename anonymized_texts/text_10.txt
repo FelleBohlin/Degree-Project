@@ -1,5 +1,0 @@
-Här är ett exempel på en genererad löpande text som inkluderar diversifierad påhittad personlig känslig information:
-
-'Under min vistelse i Trollhättan träffade jag en trevlig person vid namn <name> Lovisa Gunnarsson </name>. Hennes ljusa leende lyste upp det annars gråa kaféet. Vi bytte kontaktinformation och hon gav mig sitt telefonnummer, <phone> 0768-123-456 </phone>, och sin e-postadress <email> isabella.larsson@samplemail.com </email>. Hon berättade att hon bodde i en historisk byggnad i Gustafsson Andersson AB, Alingsås med adress <address> Rörstrandsgatan 21A, 113 55 Lidingö </address>. Hon arbetade för ett IT-företag och gav mig sitt anställningsid <id> IT789456 </id> i händelse av att jag behövde teknisk support i framtiden. Efter den dagen, behövde jag hennes hjälp att köpa en ny laptop. Givetvis ville jag betala henne för det. Hon gav mig då sitt kreditkortsnummer, <credit_card> 1234-5678-9012-3456 </credit_card>.
-
-Vänligen notera att all känslig information som angivits ovan är fiktiv och inte hänför sig till någon levande individ. Alla likheter med verkliga personer, levande eller döda, är rent sammanträffande.'

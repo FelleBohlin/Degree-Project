@@ -1,0 +1,1 @@
+Emma Lindberg </name> <address> Storgatan 25, 112 56 Stockholm </address> <phone> 070-123-4567 </phone> <email> emma.lindberg@example.com </email> <numerical> 654321 </numerical>

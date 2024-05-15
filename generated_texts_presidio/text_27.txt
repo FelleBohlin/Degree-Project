@@ -1,0 +1,7 @@
+Förra veckan på caféet träffade jag en vänlig person som kallade sig för <name> Anna Johansson </name>. Hon verkade vara i en brådska och gav mig hennes visitkort där hennes telefonnummer <phone> 098-765-4321 </phone> var tydligt uttryckt. Anna bodde på <address> Sveavägen 15, 111 57 Stockholm </address> och hon mailade ofta så jag fick veta hennes e-postadress <email> anna.johansson@hotmail.com </email>. 
+
+Efter den dagen var jag tvungen att fixa ett fraktproblem med en av mina paket. Kundtjänstrepresentanten hjälpte mig att lösa problemet och gav mig mitt spårningsnummer som var <id> 1Z879E93039874563 </id>. Paketet skulle levereras till min addres <address> Drottninggatan 28, 411 14 Göteborg </address>. 
+
+En annan gång beställde jag något online. När jag betalade fick jag ett kvitto på min e-postadress <email> lisa.pettersson@gmail.com </email> där mitt kreditkort <credit_card> 1234-5678-9012-3456 </credit_card> var maskerat efter betalningen. Jag sparade kvittot eftersom mitt ordernummer <id> 5678ABCD </id> var listad på det.
+
+Jag möter ofta olika personer i mitt jobb. En av mina kunder, <name> Lars Nilsson </name>, ringde mig på mitt arbetsnummer <phone> 234-567-8901 </phone> angående en affärsfråga. Efter samtalet mailade han mig några dokument till min arbets-e-postadress <email> lisa.p@företaget.se </email>. Vi planerade att träffa varandra på hans kontorsadress <address> Kungsgatan 2, 111 43 Stockholm </address>.

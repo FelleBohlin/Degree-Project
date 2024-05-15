@@ -1,6 +1,1 @@
-'Det var en eftermiddag när jag träffade <name> Lisa Pettersson </name> på en kafé i Göteborg. Hon berättade att hon var ny i stan och var på jakt efter lägenhet. Hon gav mig sitt telefonnummer <phone> 072-123-4567 </phone> ifall jag skulle höra om något.
-
-Senare på kvällen fick jag ett mejl från <email> lisa.pettersson@gmail.com </email>. I mejlet fanns hennes nuvarande adress <address> Storgatan 12, 11122 Stockholm </address>. Hon bad mig att också lägga till hennes medlemsnummer vid någon bostadsförmedling <id> LP5678yt </id>.
-
-På söndagen gjorde vi några ärenden tillsammans. Hon behövde köpa en soffa till sin nya lägenhet och eftersom hon ännu inte öppnat ett svenskt bankkonto, ville hon betala med sitt kreditkort <credit_card> 4563 7890 1234 5678 </credit_card>. Nån gång kanske jag får se hur hennes nya lägenhet ser ut.'
-
+I mitt senaste projekt samarbetade jag med Anna Karlsson, som har adressen Storgatan 12, 123 45 Stockholm. Hon delade med sig av sitt arbetsnummer, 08-1234567, och sin professionella e-postadress, anna.karlsson@foretaget.se. Under projektets gång behövde vi även Anna Karlssons medlemsnummer i yrkesföreningen, vilket är 987654321. Vid ett tillfälle förlorade hon sitt betalkort, som hade numret 1234 5678 9012 3456 med säkerhetskoden 789 och utgångsdatum 12/24. Vi behövde kontakta hennes bank via deras kundtjänst på numret 020-123456 för att ordna med ett nytt kort. Anna berättade också att hon nyligen hade fått sitt körkort förnyat, och det nya körkortsnumret är ABC123456789.

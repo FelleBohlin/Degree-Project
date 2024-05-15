@@ -1,0 +1,9 @@
+Så här är en text med påhittad känslig information:
+
+"Häromdagen träffade jag en intressant person vid namn <name> Maria Johansson </name>. Hon berättade att hon hade nyligen flyttat till en ny adress, <address> Solgatan 15, 333 22 Kävlinge </address>. Efter att vi pratade ett tag gav hon mig sitt telefonnummer <phone> 0768-123-456 </phone> ifall jag någonsin befann mig i stan och ville ta en kopp kaffe.
+
+Under konversationen nämnde hon också att hon just hade börjat ett nytt jobb, och att hon fått ett anställningsnummer <id> MJ202284 </id> hos sin nya arbetsgivare. Dessutom gav hon mig sin e-postadress <email> maria.johansson@example.com </email> i fall jag ville skicka lite information om de lokala fotbollsmatcherna som jag berättade om.  
+
+När vi diskuterade hur hon betalar för sitt nya gymmedlemskap sade Maria att hon just fått ett nytt kreditkort och hon visade mig numret på det <credit_card> 4567-1234-2345-6789 </credit_card>. Jag påminde henne artigt att vara försiktig med att dela den typen av information, och vi skratta åt situationen."
+
+Observera att alla dessa data är helt påhittade och inte representerar verkliga individer eller ärenden.

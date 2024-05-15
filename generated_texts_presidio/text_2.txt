@@ -1,0 +1,9 @@
+Efter en trevlig dag på stan tog jag en kaffe på ett lokalt kafé där jag träffade <name> Anna Eriksson </name>. Vi hade en trevlig konversation och hon gav mig hennes telefonnummer <phone> 0789-567-123 </phone> och sa att jag kunde ringa henne när som helst. Hon gav mig även sin e-postadress <email> anna.eriksson@hotmail.com </email> och sa att jag kunde skicka henne några bokrekommendationer som vi pratade om.
+
+Senare samma dag hjälpte jag en turist med vägbeskrivning. Han presenterade sig som <name> John Doe </name> och berättade att han precis hade flyttat till staden. Han bad mig att skicka detaljerna om några lokala sevärdheter till hans e-postadress <email> john.doe@gmail.com </email>. Han gav mig även sitt telefonnummer <phone> 123-456-7890 </phone> ifall jag ville dela ytterligare information.
+
+På vägen hem stötte jag på min gamla vän <name> Olof Persson </name>. Han gav mig genom att ge mig hans adress <address> Birgitta Gatu 34, 12345 Stockholm </address>, och bad mig att komma över för en kopp kaffe när som helst. Han tillhandahöll också sitt medlemsnummer <id> XGY12345Z </id> till bokklubben hans och föreslog att jag kunde gå med.
+
+På tal om bokklubben, så gav Klara, klubbens sekreterare mig hennes telefonnummer <phone> 456-789-1230 </phone>, och meddelade att jag kunde ringa henne om jag någonsin behövde hjälp med något. Klara gav mig även hennes e-postadress <email> klara.bokklubben@yahoo.com </email> för eventuella framtida förfrågningar.
+
+Sist men inte minst såg jag min granne <name> Gustav Lind </name> som alla känner igenom hans lysröda bil. Gustav gav mig sitt kreditkortsnummer <credit_card> 1234 5678 9123 4567 </credit_card> för att köpa leksak till hans hund nästa gång jag är i djuraffären. Han lade till att hans säkerhetskod var <credit_card> 789 </credit_card> och att kortet går ut <credit_card> 12/23 </credit_card>.

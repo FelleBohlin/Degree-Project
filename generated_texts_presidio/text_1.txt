@@ -1,0 +1,11 @@
+Så här gick mitt möte igår. Jag träffade en man som presenterade sig som <name> Adam Lindström </name>. Han verkade mycket trevlig och när det kom till att utbyta kontakter, gav han mig sitt telefonnummer <phone> 076-555-7890 </phone>. Även om jag inte riktigt förstod vad han var ute efter, skrev han ner sin adress <address> Berggränd 29, 140 34 Stockholm </address> på en lapp åt mig.
+
+Senare den dagen, mötte jag en kvinna i parken. Hon presenterade sig som <name> Sara Eriksson </name> och gav mig sitt telefonnummer <phone> 072-123-4567 </phone>. Hon gav mig även hennes hemadress <address> Trädkojvägen 7, 660 60 Malung </address>. Tydligen hade hon bott där i flera år.
+
+Nästa morgon fick jag ett mejl från en person som kallade sig för <name> Carl Gustafsson </name>. Hans e-postadress var <email> carl.gustafsson@gmail.com </email>. I det mejlet fanns ett riktigt konstigt medlemsnummer <id> CG123456J </id>. 
+
+Under lunchen träffade jag en kille som berättade att han hade fått ett nytt jobb. Han kallade sig för <name> Mikael Blomqvist </name> och gav mig sitt telefonnummer <phone> 079-654-3210 </phone>. För att vi skulle kunna ha en online chatt, gav han mig sin e-postadress <email> mikael.blomqvist@hotmail.com </email>. Därefter visade han mig sin visitkort där det stod hans arbetsplats adress <address> Techvägen 3, 753 20 Uppsala </address>. 
+
+På eftermiddagen träffade jag en gammal vän <name> Anna Berg </name> på café. Hon gav mig både sitt telefonnummer <phone> 070-999-8888 </phone> och e-postadress <email> anna.berg@yahoo.com </email>. Innan vi skiljdes gav hon mig en lapp med en påminnelse om hennes födelsedag och dessutom hennes kreditkortsinformation <credit_card> 5555-5555-5555-5555 </credit_card> ifall jag ville köpa en present till henne. Jag blev först chockad men hon försäkrade mig att hon litade på mig helt och hållet. 
+
+Jag ser fram emot morgondagen och vem jag kommer att stöta på denna gång.

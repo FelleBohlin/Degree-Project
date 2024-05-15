@@ -1,0 +1,7 @@
+Förra veckan på en konferens träffade jag en väldigt trevlig man vid namn <name> Lars Andersson </name>. Vi kom att prata om allt möjligt och eftersom vi arbetar inom samma bransch bestämde vi oss för att hålla kontakten. Lars gav mig hans telefonnummer <phone> 070-3452887 </phone> och e-postadress <email> lars.andersson@example.com </email> så att vi kunde fortsätta våra diskussioner vid ett senare tillfälle.
+
+Lars bor i Stockholm och gav mig hans adress <address> Kungsgatan 24, 111 22 Stockholm </address> ifall jag någon gång befann mig i området och ville fika. Han nämnde också att han arbetar för ett företag som har en alfanumerisk identifierare <id> LA-78653 </id>, för att hålla reda på alla anställda.
+
+Vi kom även att prata om en resa han planerar till Spanien nästa månad. Han ska betala resan med sitt kreditkort <credit_card> 5376-8989-1234-5678 </credit_card>.
+
+Det var verkligen intressant att möta Lars och jag ser fram emot att träffa honom igen. Jag ska komma ihåg att slå upp honom nästa gång jag är i Stockholm.

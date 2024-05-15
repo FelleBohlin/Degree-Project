@@ -1,0 +1,6 @@
+'Det var en eftermiddag när jag träffade <name> Lisa Pettersson </name> på en kafé i Göteborg. Hon berättade att hon var ny i stan och var på jakt efter lägenhet. Hon gav mig sitt telefonnummer <phone> 072-123-4567 </phone> ifall jag skulle höra om något.
+
+Senare på kvällen fick jag ett mejl från <email> lisa.pettersson@gmail.com </email>. I mejlet fanns hennes nuvarande adress <address> Storgatan 12, 11122 Stockholm </address>. Hon bad mig att också lägga till hennes medlemsnummer vid någon bostadsförmedling <id> LP5678yt </id>.
+
+På söndagen gjorde vi några ärenden tillsammans. Hon behövde köpa en soffa till sin nya lägenhet och eftersom hon ännu inte öppnat ett svenskt bankkonto, ville hon betala med sitt kreditkort <credit_card> 4563 7890 1234 5678 </credit_card>. Nån gång kanske jag får se hur hennes nya lägenhet ser ut.'
+

@@ -1,0 +1,6 @@
+<name>Anna Lindberg</name>
+[Vasagatan 15, 411 24 Göteborg]
+<phone>070-123-4567</phone>
+<email>anna.lindberg@example.com</email>
+[987654]
+[555-123-456789]

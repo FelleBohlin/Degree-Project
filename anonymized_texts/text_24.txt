@@ -1,9 +1,0 @@
-'Häromdagen pratade jag med en kvinna vid namn <name> Agneta Lindberg </name>. Hon bad mig att komma i kontakt med henne igen, så hon delade sitt telefonnummer <phone> 071-234-5678 </phone> och sin e-postadress <email> lisa.johansson@hotmail.com </email>. Kristina Nilsson bor på <address> Trollhättan 23, 43210 Nyköping </address> och ville att jag skulle skicka informationen dit. Hon gav mig också hennes kundnummer <id> LJ3451 </id> för att jag skulle kunna släppa paketet vid hennes dörr. 
-
-För att betala för frakten, gav Hugo Hallberg mig sitt kreditkortsnummer <credit_card> 4856-1234-5678-9012 </credit_card>. Vi pratade om olika saker, bland annat om hennes hund och hennes trädgårdsarbete. Trots att vi bara träffades en gång, kändes det som om vi hade känt varandra i år.'
-
-'Min vän <name> Stefan Ottosson </name> bor i Motala. Hans adress är <address> Lidingö 85, 11211 Örnsköldsvik </address>. Niclas Nilsson jobbar för ett stort företag och reser mycket i sitt jobb. Han föredrar att jag kontaktar honom via e-post <email> samuel.eriksson@företaget.se </email>, men om det är brådskande kan jag ringa honom på hans mobilnummer <phone> 073-789-1234 </phone>.
-
-För företagsresor har han ett särskilt kreditkort, och numret är <credit_card> 5524-5678-9012-3456 </credit_card>. Han är också medlem i deras lojalitetsprogram, och hans medlemsnummer är <id> SE345BC </id>.
-
-Vänligen observera att all denna information är konfidentiell och endast till för träningsändamål. Även om namnen och numren är verkliga, finns det inga kopplingar till verkliga individer eller entiteter.

@@ -7,3 +7,4 @@ langchain-experimental
 spacy
 Faker
 fasttext-wheel
+openpyxl

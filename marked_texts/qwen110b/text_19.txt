@@ -1,0 +1,5 @@
+<name>Anna Persson</name>
+<email>anna.persson@example.com</email>
+<phone>070-123-4567</phone>
+<address>Birgittavägen 18, 113 45 Stockholm</address>
+<numerical>annapersson_stockholm</numerical>

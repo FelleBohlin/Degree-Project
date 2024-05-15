@@ -1,7 +1,1 @@
-Idag träffade jag en fantastisk individ - <name> Karin Lindgren </name>. Vi började prata över en kopp te och hon gav mig sitt telefonnummer <phone> 070-123-1698 </phone> ifall jag ville ta en fika någon annan dag. Efter en stund gav hon mig även sin e-postadress <email> karin.lindgren@gmail.com </email> och berättade att hon föredrog att korrespondens sköts digitalt.
-
-Karin berättade också att hon bodde på <address> Kungsgatan 15, 111 43 Stockholm </address>. Det var något vackert med huset hon beskrev - mossgrön dörr och utsikt över vattnet. Hon tillade att om jag ska besöka, skulle jag kunna hitta hennes hem genom att googla adressen. 
-
-Nämnande av Karins jobb inom datateknik fick mig att fråga om hennes arbets-id. Hon svarade att hennes numeriska identifierare var <id> KL-17294 </id>, men skrattade och sa att hon sällan ens kommer ihåg det själv.
-
-Avslutningsvis berättade hon att hon nyligen hade köpt ett nytt hem och att hon hade betalat med sitt nya kreditkort. Hon avslöjade dock aldrig sitt <credit_card> kreditkortsnummer </credit_card>, vilket är en bra säkerhetspraxis.
+Jag pratade nyligen med en person som heter Klara Andersson. Hon berättade att hon bor på Rosenlundsgatan 24, 112 40 Stockholm och arbetar som projektledare. Klara gav mig även sitt mobilnummer som är 070-123-4567. Vi pratade om att hålla kontakten via e-post och hon gav mig sin adress: klara.andersson@example.com. Hon nämnde att hon nyligen hade problem med sitt bankkonto, nummer 123456789012, hos Swedbank och behövde kontakta sin bank för att lösa det. Klara berättade också att hon nyligen köpt en ny bil, en Volvo med registreringsnummer ABC123, och var väldigt exalterad över det nya inköpet.

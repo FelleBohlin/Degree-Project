@@ -1,9 +1,1 @@
-"Häromdagen stötte jag på en individ vid namn <name> Sara Johansson </name>. Hon delade med sig av sitt telefonnummer <phone> 070-123-4567 </phone> samt hennes adress <address> Solskensgatan 3, 12345, Solby </address>. Hon gav mig dessutom hennes e-postadress <email> sara.johansson@mail.com </email> och bad mig kontakta henne om jag hade fler frågor. 
-
-Hennes identifieringsnummer var märkligt nog <id> ABC123 </id> och hon berättade att hon hade fått det när hon tecknade sitt medlemskap i klubben. Det var något hon nämnde flera gånger under vår konversation.
-
-Jag mötte även hennes vän, <name> Erik Karlsson </name> samma dag. Han gav mig sitt telefonnummer <phone> 073-987-6543 </phone> och address <address> Blomstervägen 9, 54321, Blomtad </address>. Hans e-postadress är <email> erik.karlsson@mail.com </email> och identifierare är <id> XYZ789 </id>.
-
-Strax innan vi skildes åt berättade <name> Erik Karlsson </name> att han just fått ett nytt kreditkort och var stolt över sitt kortnummer <credit_card> 9876-5432-1098-7654 </credit_card>, men jag försäkrade honom att det inte var säkert att dela med sig av sådan känslig information. 
-
-Därefter gick vi våra egna vägar, med löften om att hålla kontakten och kanske ses igen i framtiden."
+I ett café i den pittoreska staden Solna träffade jag en intressant individ som presenterade sig som Sofia Nilsson. Hon delade sitt visitkort där hennes telefonnummer, 073-942-8574, och e-postadress, sofia.nilsson@outlook.com, stod tydligt angivet. Sofia berättade att hon nyligen flyttat till en ny adress, Vasagatan 15, 169 58 Solna, där hon hade utsikt över en vacker park. Hon nämnde även att hon håller på att byta bank och sitt nya bankkontonummer är 123456789012 på Nordea. Under vårt samtal gav hon mig också sitt medlemsnummer i sin lokala bokklubb, vilket var 987654321. Sofia var mycket förtjust i teknik och gav mig serienumret, SN1234567, till hennes nyligen köpta laptop för att visa hur seriell spårning fungerar. Hon avslutade med att informera mig om sitt senaste köp, en flygbiljett, vars bokningsnummer var AB123456.

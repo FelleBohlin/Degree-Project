@@ -1,0 +1,1 @@
+<name> Emilia Larsson </name> Solgatan 12, 112 45 Stockholm <phone> 070-123-4567 </phone> <email> emilia.larsson@example.com </email> <numerical> 123456789012 </numerical>

@@ -1,0 +1,5 @@
+Här kommer en löpande text: 
+
+'Igår, på caféet vid hörnet, dök upp en dam vid namn <name> Karolina Johansson </name>. Hon var en frekvent besökare och alla visste vem hon var. I samtalet berättade hon att hon nyligen hade flyttat till en ny adress <address> Rosenstigen 25, 14252 Skogås </address>. Karolina ville hålla kontakten, så hon gav mig sitt telefonnummer <phone> 072-254-8963 </phone>. Lite senare på dagen skickade hon även sin e-postadress via sms <email> karolina.johansson@post.se </email>. Vi pratade länge om olika saker och hon nämnde att hon hade fått ett nytt kreditkort. Nyfiken frågade jag om vilket bank och hon svarade leende, 'Jag har mitt <credit_card> Visa kort </credit_card>, från Swedbank.' Senare visade hon mig en anteckningsbok med ett nothäfte, hon hade numrerat sidorna enligt hennes speciella system, det var en alfanumerisk identifierare <id> ABC-123-DIJ </id>. Jag tyckte det var smart och bestämde mig för att göra samma med mina böcker.' 
+
+Observera att all data i exemplet ovan är påhittade eller slumpmässigt genererade. Ingen verklig känslig information är använd.

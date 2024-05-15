@@ -1,0 +1,8 @@
+<name> Anna Karlsson </name>
+<email> anna.karlsson@example.com </email>
+<phone> 070-123-4567 </phone>
+<address> Vasagatan 15, 111 20 Stockholm </address>
+<numerical> 54321 </numerical>
+<creditcard> 4111 1111 1111 1111 </creditcard>
+<creditcard> 01/25 </creditcard>
+<numerical> 123 </numerical>

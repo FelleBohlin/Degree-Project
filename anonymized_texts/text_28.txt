@@ -1,7 +1,0 @@
-Är du klar att lyssna på en historia som hände mig? Bra, låt oss börja. En gång, när jag promenerade till parken, träffade jag på en man med ett väldigt intressant namn, som var <name> Lennart Johansson </name>. Jag minns att han var väldigt trevlig och gav mig sitt telefonnummer <phone> 358-909-1256 </phone> om jag någonsin skulle behöva något. 
-
-Samma dag, när jag kom tillbaka till mitt hus på <address> Barkvägen 10, 12345 Luleå </address>, fick jag ett mejl. Jag var förvånad när jag såg att det var från Nils Karlsson, vars mejladress var <email> axel.sjoberg@email.com </email>. Han ville bara påminna om några saker vi pratade om. 
-
-Senare, när vi blev vänner, avslöjade Mikael Borg att han har en ganska unik identifierare för sitt jobb på banken, vilket var <id> AX673B </id>. Åh, och han nämnde också hans kreditkortsnummer <credit_card> 5982-4584-1452-6798 </credit_card> när vi talade om online-shopping, men jag såg till att jag aldrig sparade någonstans för hans säkerhet. 
-
-Så, ja, det här är min historia om Tony Jonasson, och jag hoppas den ger dig några idéer om hur du kan formulera din textdata med dummy information.

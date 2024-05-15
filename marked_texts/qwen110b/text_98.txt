@@ -1,0 +1,1 @@
+<I>Emma Nilsson</I>. Hon bor på <address>Storgatan 12, 123 45 Stadsholmen</address>. En dag mötte hon <name>David Larsson</name>, som gav henne sitt nya telefonnummer <phone>070-123-4567</phone> och sin e-postadress <email>david.larsson@example.com</email>.

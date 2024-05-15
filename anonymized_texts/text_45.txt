@@ -1,7 +1,0 @@
-Denna helg mötte jag fantastiska <name> Tore Karlsson </name>. Vi pratade om hennes erfarenheter att bo i en liten by kallad <address> Helsingborg, Borlänge 65, 82730 </address>. Under vår konversation gav hon mig sitt kontakttelefonnummer <phone> 070-123-4567 </phone> och hennes mejladress <email> anna.olsson@gmail.com </email> för vidare kommunikation. 
-
-Hennes berättelse om att vara medlem i den lokala bokklubben fångade mitt intresse. Tydligen har hon varit medlem där i över tio år och är mycket engagerad. Hon nämnde att hon hade medlemsnummer <id> BKC7890 </id> vilket var verkligen intressant. Hon är uppenbarligen en stor fan av böcker! 
-
-1924-11-24, när vi satt på en liten bistro i stadens centrum, berättade hon att hon nu betalar sitt medlemskap i bokklubben genom ett automatiskt debiteringssystem med hjälp av sitt kreditkort <credit_card> 4520 5678 9012 3456, säkerhetskod 789, utgångsdatum 04/24 </credit_card>. Verkligen praktiskt! 
-
-Mötet med Bo Ekström var oförglömligt och jag ser fram emot att hålla kontakten med henne. Jag hoppas att jag snart får möjlighet att besöka den charmiga byn <address> Västerås, Karlskrona 65, 82730 </address> där hon bor.

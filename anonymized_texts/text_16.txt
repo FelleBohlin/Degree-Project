@@ -1,7 +1,0 @@
-Här är ett exempel på en löpande text med dummy personlig känslig information:
-
-'Häromdagen hade jag äran att träffa <name> Stig Gustavsson </name>. Hon arbetar i samma byggnad som mig och bor här i staden. Hennes adress, har hon berättat för mig, är <address> Karlskrona 25, 12345 Falun </address>. För att kunna kontakta henne i arbetets ärende gav hon mig sitt telefonnummer <phone> 070-123-4567 </phone> och hennes emailadress <email> anna.karlsson@example.com </email>.
-   
-   Anne Björkman berättade också att hon nyligen hade köpt en ny bil. Hennes bil har en identifierare <id> XYZ123 </id>. Maria Persson är en noga person och håller allt i ordning. Hon uppgav att hon har ett konto i Eriksson Ekman AB, där hennes kontonummer <id> 1234-5678-9012 </id> är registrerad.
-   
-   För att slutföra några av sina snabbköp på nätet, informerade <name> Margareta Olsson </name> även, på ett mycket säkert sätt förstås, om sitt kreditkort <credit_card> 1234 5678 9012 3456 </credit_card>, men av säkerhetsskäl gav hon såklart aldrig ut informationsdetaljer som säkerhetskoden eller utgångsdatumet.111

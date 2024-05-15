@@ -1,13 +1,1 @@
-Här följer några exempel:
-
-1. Häromdagen träffade jag en vän, hans namn är <name> Erik Andersson </name>. Vi pratade om gamla minnen och skrattade mycket. På vägen hem insåg jag att jag glömt min mobil hemma och bad honom att skicka ett sms till min bror från sin telefon. Hans telefonnummer var <phone> 072-425-5698 </phone>.
-
-2. Min fasters granne, en vänlig äldre dame vid namnet <name> Margareta Johansson </name> bor i den mysigaste lilla stugan du kan föreställa dig, belägen på <address> Solgatan 14, 12345 Stockholm </address>.
-
-3. Jag har en vän som jobbar utomlands för närvarande. Hans namn är <name> Tony Stark </name>. Jag brukar skicka honom e-post för att se hur han har det. Hans e-postadress är <email> stark.tony@avenger.com </email>.
-
-4. Mina vänner och jag hade en liten återträff. En av de gamla kompisarna, <name> Karin Lindgren </name> berättade om sitt jobb på ett försäkringsbolag. Nästa dag skickade hon mig sitt medlemsnummer <id> KL567U89 </id> ifall jag skulle vilja teckna en försäkring.
-
-5. Min kompis, <name> Peter Johansson </name> berättade för mig om sin resa till Italien. För att hyra bil i landet behövde han använda kreditkortet som slutade som <credit_card> xxxx-xxxx-xxxx-2871 </credit_card> och det fungerade smidigt för honom. 
-
-Kom ihåg att ovanstående information är påhittad och ingenting stämmer överens med verkliga personer eller deras personuppgifter.
+Jag träffade en person som hette Anna Karlsson förra veckan. Hon gav mig sitt telefonnummer 073-456-7890 samt hennes e-postadress anna.karlsson@example.com. Anna berättade att hon nyligen flyttat till en ny lägenhet på Solgatan 3, 123 45 Solstad. Hennes bankkontonummer är 987654321 och hon nämnde också att hennes medlemsnummer på lokala gymmet är 54321. Anna jobbar som frilansgrafiker och använder ofta sitt serienummer för programvaran hon är licensierad till, som är ABC123XYZ789. Dessutom berättade hon att hon nyligen köpt en ny dator och hennes IP-adress hemma är 192.168.1.100.

@@ -1,4 +1,15 @@
 
+använd existernade open source modeller API man behöver inte köra detta lokalt då jag använder dummy data men om man skulle vilja så kör man det lokalt. använd llamav3 för att generera data, en agent för att kolla den genererade datan så att den endast innehåller text stycken och inte text som förklaringar gjord av chatbotten, en agent markerar datan, en agent dubbelkolla datan. osv.
+
+Att ta upp på möte
+
+jag har använt LLm för att generera och markera text som används för att testa modellen. Jag skulle kunna köra en LLm lokalt och byta ut all markerad text som ett anonymizerings system.
+
+
+
+
+
+
 ###Roadmap
 1. Project setup
    - Set up a Jupyter Notebook environment that can interact with LLMs

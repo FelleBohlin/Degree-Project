@@ -1,9 +1,0 @@
-Under min joggingrunda den här morgonen mötte jag en tjej som hette <name> Ingvar Lindström </name>. Vi pratade om allt och ingenting och mitt i samtalet gav hon mig sitt telefonnummer <phone> 0712-345-678 </phone>. Hon skrev ner sin adress på en lapp till mig, <address> Uddevalla 12, 12345 Kalmar </address>, och bad mig att ringa när jag skulle vara i området.
-
-Senare samma dag var jag och handlade på Ericsson AB, där jag träffade en kille vid namn <name> Maria Persson </name>. Han arbetade på kundservice och hjälpte mig att lösa ett problem jag hade med mitt konto. Anna Holmgren gav mig sitt e-postadress <email> david.johansson@ica.se </email> om jag hade fler frågor.
-
-Min gamle vän, <name> Nils Magnusson </name>, skickade ett meddelande till mig på Andersson Lindholm HB. Han hade ändrat sitt telefonnummer till <phone> 0723-456-789 </phone>. Vi bestämde oss för att träffas på hans nya adress, <address> Lilla vägen 3, 67890 Borlänge </address>, nästa vecka.
-
-Förra veckan fick jag ett e-postmeddelande från min bank. De bad att jag skulle uppdatera mina bankuppgifter. Min profil identifierades med mitt konto-ID <id> 12345678 </id>. Jag behövde dock inte uppdatera mitt kreditkortsnummer <credit_card> 9876-5432-1098-7654 </credit_card> i det här fallet. Jag loggade in med min epostadress <email> persson@gmail.com </email> och löste alla problem jag hade med mitt konto. 
-
-En annan kompis till mig, <name> Nils Andersson </name>, gav mig hennes nya telefonnummer 1965-10-05. Det var <phone> 0765-432-198 </phone>. Hon skickade mig dessutom sin nya e-postadress <email> lisa.nilsson@yahoo.com </email> och bad mig att skicka alla framtida meddelanden dit.

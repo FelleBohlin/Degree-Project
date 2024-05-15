@@ -1,7 +1,1 @@
-"Häromdagen stötte jag på en individ vid namn <name>Peter Johansson</name>. Han bor i en liten stad söder om Stockholm på adressen <address>Storgatan 5, 12345 Stockholm</address>. Peter är mycket tekniskt kunnig och erbjuder sin hjälp till folk via hans e-postadress <email>peter.johansson@gmail.com</email>. 
-
-Han hjälpte sin granne i förra vecka att lösa ett tekniskt problem med sin dator remot. Han behövde några specifika detaljer om programvaran hon använde. Därför passade hon på att lämna över sitt serienummer <id>SFT123456XYZ</id> till Peter. 
-
-Peter nämnde också att han köpte en ny cykel nyligen online. För att göra sitt köp, använde han sitt kreditkort <credit_card>1234 5678 9012 3456</credit_card>. 
-
-I sitt yrkesliv arbetar han som konsult och många gånger sköter han sina affärer via telefon. Om du någon gång skulle behöva nå honom kan hans telefonnummer <phone>070-1234567</phone> komma väl till pass."
+Jag träffade en person som hette Anna Karlsson igår. Hon gav mig sitt telefonnummer 073-123-4567 samt hennes e-postadress anna.karlsson@example.com. Anna berättade att hon nyligen hade flyttat till en ny adress, Tallgatan 4, 112 45 Stockholm. Under vårt samtal nämnde hon också sitt medlemsnummer i den lokala bokklubben, vilket är 987654321. Anna nämnde att hon hade haft problem med sitt bankkonto senast, och gav sitt konto nummer 1234-5678-9012-3456 för att visa ett exempel på hur informationen kan bli felhanterad. Hon pratade också om sitt nya kreditkort från Swedbank, kortnummer 4000-1234-5678-9010 med utgångsdatum 12/25 och säkerhetskod 123.

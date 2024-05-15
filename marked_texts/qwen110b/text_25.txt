@@ -1,0 +1,1 @@
+<sname>Lisa Bergman</sname> <address>Solgatan 12, 113 25 Stockholm</address> <phone>070-123-4567</phone> <email>lisa.bergman@exempel.com</email> <numerical>987654321</numerical> <creditcard>4532 1122 3344 5566</creditcard> <numerical>08/25</numerical> <numerical>123</numerical> <numerical>192.168.1.1</numerical>

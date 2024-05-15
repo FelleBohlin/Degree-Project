@@ -1,0 +1,9 @@
+Den här veckan träffade jag en intressant individ vid namn <name> Lars Olsson </name>. Vi utbytte telefonnummer, så jag har nu hans nummer, vilket är <phone> 070-123-4567 </phone>. Eftersom vi både har ett intresse av fotboll bestämde vi oss för att möta upp vid hans hem <address> Rödbetsvägen 42, 17263 Stockholm </address>.
+
+Senare på dagen fick jag ett mail från honom från hans e-postadress <email> lars.olsson@hotmail.com </email>, där han gav mig information om kommande fotbollsevent som vi båda skulle kunna delta i.
+
+Under vår konversation nämnde Lars att han nyligen åkte på en resa där hans resenärsnummer var <id> ABC123FLY </id>. Jag tycker det är roligt att samla på sådana minnen. 
+
+Vid ett tillfälle under vår konversation nämnde han att han nyligen hade haft problem med sitt Visa-kort. Numret på det kortet var <credit_card> 4111 1111 1111 1112 </credit_card>. Jag föreslog att han skulle kontakta sin bank för att klara upp saken. 
+
+Det var roligt att träffa Lars och jag ser fram emot att spendera mer tid med honom i framtiden, och kanske till och med delta i några fotbollsevent tillsammans.

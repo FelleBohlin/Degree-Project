@@ -1,17 +1,1 @@
-Här kommer några exempel på träningsdata som du kan använda för din modell.
-
-1. 'Jag var på caféet och träffade en tjej som heter <name> Anna Andersson </name>. Hon arbetar nuförtiden på stadens bibliotek och gav mig hennes telefonnummer <phone> 098-765-4321 </phone> om jag skulle vilja besöka.'
-
-2. 'Skickade nyligen ett paket till min goda vän <name> Oskar Pettersson </name> som bor i <address> Grönvägen 5, 12345 Stockholm </address>. Vi använder nämligen samma leveranstjänst, så jag känner till hans spårningsnummer <id> PKG5643XYZ </id>.'
-
-3. 'För några dagar sedan träffade jag min gamle kompis <name> Linnea Karlsson </name>. Hon gav mig sin mail id <email> linnea.karlsson@maildomain.com </email> och sa att hon gärna ville hålla kontakten mer frekvent.'
-
-4. 'Jag har en arbetskamrat som heter <name> Erik Johansson </name> och han bor på <address> Blomstergatan 23, 67890 Göteborg </address>. Vi delar det samma medlemsnummer <id> MEMB12345 </id> i fitness-klubben.'
-
-5. 'Min bror <name> Oliver Nilsson </name> bor utomlands, så vi brukar mestadels kontakta varandra via mail <email> oliver.nilsson@maildomain.com </email> eller telefon <phone> +1-223-334-4455 </phone>.'
-
-6. 'Just idag åkte jag taxi och chaufförens namn var <name> Ida Bergström </name>. Hon berättade att hennes medlemsnummer <id> CAB1234 </id> hos taxibolaget och nämnde även att jag kunde kontakta henne på <phone> 234-567-8901 </phone> ifall jag behövde ett åk igen.'
-
-7. 'Min syster <name> Emma Gustavsson </name>, hon bor på <address> Smågatan 12, 34567 Lund </address>. Om du behöver nå henne kan jag ge dig hennes e-postadress <email> emma.gustavsson@maildomain.com </email>.'   
-
-Observera att all information i dessa meningar är fullständigt fingerad och inte representerar riktiga individer eller identifierande information.
+I en liten kafé i centrum satt Maria Andersson och bläddrade igenom sin nya bok. Hennes vän, Erik Karlsson, ringde hennes mobil, 070-123-4567, för att bekräfta deras planer för kvällen. Maria, som bodde på Storgatan 15 i Lund, svarade snabbt och skrev ner avtalet i sin kalender. Efteråt skickade hon ett meddelande till Erik med sin email, maria.andersson91@hotmail.com, för att skicka en länk till konsertbiljetterna hon hade köpt. Biljettnumret var 55667788 och hon hade använt sitt kreditkort, 4532-1122-1234-5467, med utgångsdatum 06/25 för köpet. Erik svarade med sitt medlemsnummer i konsertklubben, 9911223344, och sa att han skulle möta henne kl 18:00 vid huvudingången.

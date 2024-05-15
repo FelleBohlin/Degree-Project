@@ -1,0 +1,7 @@
+Här kommer Louise Holm, en fiktiv karaktär, i berättelsen. Nils Andersson har 2009-01-22 flyttat till Östersund. Hennes fullständiga namn är <name> Mikaela Gustavsson </name>. Hon bor på <address> Kalmar 50, 112 21 Uddevalla </address>. Anna Persson delade också med sig av sitt mobilnummer, det var <phone> 070-123-4567 </phone>.
+
+Ebba Kristiansson jobbar för ett internationellt företag och de använder nummer för att identifiera sin personal. Sofia's anställningsnummer är <id> SK102223 </id>. Även hennes offentliga e-postadress hon använder för jobb ska jag nämna: <email> sofia.karlsson@fiktivtforetag.com </email>.
+
+För att betala sina räkningar online, använde hon sitt kreditkort. Kreditkort information hon gav var (fiktiv information): <credit_card> 1234-5678-9012-3456, utgångsdatum 12/25 och CVV 123 </credit_card>. Naturligtvis innehåller alla dessa uppgifter inget riktigt personligt data utan är helt och hållet påhittade för detta exempel. 
+
+Ingen bör bekymra sig om att hennes information är utsatt, eftersom detta är en påhittad individ och ingen verklig person.

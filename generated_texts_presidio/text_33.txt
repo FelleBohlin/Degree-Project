@@ -1,0 +1,5 @@
+En gång var jag på en affärsresa, och jag träffade en man som föreslog att jag skulle träffa sin vän, <name> Anna Andersson </name>. Vi utbytte telefonnummer, och hennes var <phone> 076-123-4567 </phone>. När vi träffades berättade hon om sitt liv i <address> Fiskargatan 9, 11122 Stockholm </address> och hur mycket hon älskade staden.
+
+Efter det mötet, började jag även att skicka e-post till henne och hennes e-postadress är <email> anna.andersson@example.com </email>. Hon berättade för mig att hon jobbar för ett mjukvaruföretag och att hennes anställningsnummer är <id> 56789ABC </id>. 
+
+För att tacka mig för min hjälp, skickade Anna mig en gåva. Hon insisterade på att betala för frakten och gav mig hennes kreditkortsdetaljer: <credit_card> 1234-5678-9098-7654 </credit_card>. Tyvärr, eftersom hon var ny i staden, blev hennes kreditkortsinformation stulen. Men tack vare att hon snabbt upptäckte detta, kunde hon lösa situationen genom att kontakta hennes bank. Efter den händelsen blev vi ännu närmare vänner.

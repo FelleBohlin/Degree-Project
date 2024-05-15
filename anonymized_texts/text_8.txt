@@ -1,7 +1,0 @@
-Här kommer Gustav Gunnarsson, en fiktiv karaktär, i berättelsen. Carolina Kristiansson har 1929-07-21 flyttat till Uppsala. Hennes fullständiga namn är <name> Anna Johansson </name>. Hon bor på <address> Landskrona 50, 112 21 Jönköping </address>. Louise Nilsson delade också med sig av sitt mobilnummer, det var <phone> 070-123-4567 </phone>.
-
-Jesper Lindberg jobbar för ett internationellt företag och de använder nummer för att identifiera sin personal. Sofia's anställningsnummer är <id> SK102223 </id>. Även hennes offentliga e-postadress hon använder för jobb ska jag nämna: <email> sofia.karlsson@fiktivtforetag.com </email>.
-
-För att betala sina räkningar online, använde hon sitt kreditkort. Kreditkort information hon gav var (fiktiv information): <credit_card> 1234-5678-9012-3456, utgångsdatum 12/25 och CVV 123 </credit_card>. Naturligtvis innehåller alla dessa uppgifter inget riktigt personligt data utan är helt och hållet påhittade för detta exempel. 
-
-Ingen bör bekymra sig om att hennes information är utsatt, eftersom detta är en påhittad individ och ingen verklig person.
