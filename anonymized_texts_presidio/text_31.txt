@@ -1,0 +1,7 @@
+Förra veckan deltog jag i en kurs där jag träffade flera intressanta personer. En av dem var <name> Karolina Knutsson </name>, som visade sig vara mycket kunnig inom sitt område. Under en paus delade hon med sig av sitt telefonnummer <phone> 070-123 45 67 </phone> ifall jag behövde nå henne. Harriet Jansson bor på <address> Umeå 12, 12345 Norrköping </address> och nämnde att hon nyligen köpt en ny lägenhet där.
+
+Jag fick också kontakt med <name> Gustav Lundström </name>, som arbetar som systemutvecklare. Vi utbytte e-postadresser för att hålla kontakten och hans e-post är <email> per.andersson@example.com </email>. Under samtalet berättade Andreas Jonsson för mig att hans medlemsnummer i vår gemensamma förening är <id> 987654321 </id>.
+
+På kursen var även <name> Linnéa Persson </name> närvarande. Hon delade ut sitt visitkort där hennes telefonnummer <phone> 031-987 65 43 </phone> och e-postadress <email> lisa.nilsson@workmail.com </email> fanns angivna. John Samuelsson nämnde också sitt kundnummer hos sitt bankkonto som var <id> 1122334455 </id>.
+
+En annan deltagare, <name>

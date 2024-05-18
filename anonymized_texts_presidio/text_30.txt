@@ -1,0 +1,7 @@
+Det var en solig dag när <name> Erik Larsson </name> bestämde sig för att ta en promenad till parken. På vägen dit stötte hon på sin gamla vän <name> Lisbeth Nilsson </name>. De hade inte setts på flera år och bestämde sig för att sätta sig ner och prata en stund. Gunnar Karlsson uppdaterade Lisa Lindström om hans nya jobb och gav henne sitt telefonnummer <phone> 070-123-4567 </phone> så att de kunde hålla kontakten.
+
+Birgitta Andersson berättade om sitt nya hus och gav Jörgen Nilsson sin nya adress <address> Skellefteå 5, 12345 Sundsvall </address>. De insåg att de hade mycket att ta igen, så Rasmus Hansson föreslog att de kunde mötas upp igen nästa vecka. För att planera det bättre, gav Kristina Månsson henne sin e-postadress <email> henrik.andersson@example.com </email>.
+
+När de satt och pratade, kom en brevbärare förbi och levererade ett brev till Maria Karlsson. Hon öppnade det och såg att det var från hennes bank, med ett nytt kreditkort. Hon noterade sitt nya kreditkortsnummer <credit_card> 1234-5678-9012-3456 </credit_card> och lade det säkert tillbaka i sin plånbok.
+
+Ulf Karlsson nämnde att han nyligen hade blivit medlem i en exklusiv klubb och visade sitt medlems

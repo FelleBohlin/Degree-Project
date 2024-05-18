@@ -1,9 +1,1 @@
-Visst, här är den genererade dummy data med märkning av känslig information.
-
-'Häromdagen träffade jag en mycket intressant individ som identifierade sig med namnet <name> Anna Strömberg </name>. Jag blev förvånad över hennes generositet när hon gav mig sitt telefonnummer <phone> 070-123-4567 </phone>. Vi hade en givande konversation och bestämde oss för att vi skulle hålla kontakten via e-post, så hon gav mig hennes e-postadress <email> anna.stromberg@example.com </email>. '
-
-'När jag kom hem märkte jag att jag hade glömt var <name> Carl Johansson </name> bodde, så jag slog upp hans adress <address> Snickargatan 25, 12345, Stockholm </address>. Senare på kvällen märkte jag att jag hade fått ett e-postmeddelande från honom <email> carl.johansson@example.com </email>.'
-
-'En annan dag pratade jag med min gamle vän <name> Oskar Berg </name>. Han hade precis flyttat och gav mig därför sin nya adress <address> Blomstervägen 17, 67890, Göteborg </address>. Han gav mig också sitt nya telefonnummer <phone> 076-234-5678 </phone> och e-post <email> oskar.berg@example.com </email>.'
-
-'Mitt ärendenummer för ett nyligen genomfört köp var <id> AB123-456CD </id> och jag beställde det med mitt kreditkort <credit_card> 1234 5678 9012 3456 </credit_card>. Den säkerhetskod jag använde var <credit_card> 789 </credit_card> och kortets utgångsdatum var <credit_card> 12/24 </credit_card>.'
+Jag talade med <name> Maria Andersson </name> tidigare idag. Hon nämnde att hon nyligen flyttade till sin nya bostad på <address> Storgatan 45, 12345 Stockholm </address>. Hon bad mig att notera hennes nya telefonnummer <phone> 070-123-4567 </phone> och hennes arbetsrelaterade e-postadress <email> maria.andersson@company.com </email>. Vi diskuterade också hennes bankärenden, och hon delade sitt kontonummer <id> 1234-5678-9123 </id>. Till sist kom vi in på hennes senaste köp, och hon råkade nämna sitt kreditkortsnummer <credit_card> 4111-1111-1111-1111 </credit_card> som hon använde för att betala.

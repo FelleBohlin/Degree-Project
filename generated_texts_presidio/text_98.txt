@@ -1,0 +1,5 @@
+Förra veckan träffade jag <name> Lisa Karlsson </name> på en konferens i Stockholm. Hon berättade att hon nyligen hade flyttat till en ny adress på <address> Gärdesgatan 12, 114 30 Stockholm </address>. Vi pratade även om våra olika jobb, och det visade sig att hon arbetar som projektledare på ett företag där hennes arbetsmail är <email> lisa.karlsson@projektledare.com </email>. Under samtalet nämnde hon också att hon hade fått ett nytt telefonnummer <phone> 070-123 45 67 </phone>. 
+
+En annan person jag träffade var <name> Erik Johansson </name>. Han jobbar som programmerare och hans kontaktinformation är <email> erik.johansson@kodare.se </email> och <phone> 073-987 65 43 </phone>. Erik berättade också att han nyligen hade skaffat ett nytt kreditkort med nummer <credit_card> 4567 8912 3456 7890 </credit_card>. 
+
+Under konferensen stötte jag också på <name> Åsa Pettersson </name>, som hade ett spännande projekt på gång. Hon delade med sig av sin hemadress <address> Västra Storgatan 45, 123 45 Södertälje </address> och sitt arbetsnummer <phone> 08-765

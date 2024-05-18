@@ -1,6 +1,6 @@
 <name>Anna Karlsson</name>
-Bergsgatan 24, 112 45 Stockholm
+<address>Bergsgatan 24, 112 45 Stockholm</address>
 <phone>070-123-4567</phone>
 <email>anna.karlsson@exempel.se</email>
-<numeric>123456-78910</numeric>
-<numeric>9876543210</numeric>
+<numerical>123456-78910</numerical>
+<numerical>9876543210</numerical>

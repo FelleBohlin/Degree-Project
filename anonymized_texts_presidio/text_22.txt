@@ -1,0 +1,5 @@
+På väg till jobbet 2017-05-30 träffade jag en gammal vän som heter <name> Cecilia Johansson </name>. Vi bestämde oss för att ta en kaffe på ett lokalt café. Hon berättade att hon nyligen flyttat till en ny lägenhet på <address> Borås 45, 123 45 Stockholm </address>. Under samtalet nämnde hon också att hennes telefonnummer är <phone> 070-123-4567 </phone> och att jag kunde nå henne på hennes nya e-postadress <email> anna.karlsson@example.com </email>. 
+
+Jag fick också veta att hon hade bytt bank och fått ett nytt bankkontonummer <id> 9876543210 </id>. Hon sa att hon var nöjd med sina nya kreditkort och gav mig den nya kortinformationen för att spara i mina kontakter, vilket inkluderade kortnumret <credit_card> 1234-5678-9876-5432 </credit_card> och säkerhetskoden <credit_card> 123 </credit_card>. 
+
+På jobbet 1968-10-28 fick jag ett samtal från en kund vid namn <name> Linda Nilsson </name>, som ville uppdatera sin adress till <address> Östersund 12, 543 21 Lidköping </address>. Han gav mig även sitt telefonnummer <phone> 076-543-2109 </phone> och bad mig att skicka

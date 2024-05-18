@@ -1,1 +1,1 @@
-<name> Emilia Larsson </name> Solgatan 12, 112 45 Stockholm <phone> 070-123-4567 </phone> <email> emilia.larsson@example.com </email> <numerical> 123456789012 </numerical>
+Jag träffade <name> Emilia Larsson </name> på min promenad genom staden, som just flyttat till <address> Solgatan 12, 112 45 Stockholm </address>. Hon gav mig sitt telefonnummer <phone> 070-123-4567 </phone> och hennes e-post är <email> emilia.larsson@example.com </email>. Emilia nämnde sitt nya bankkonto <numerical> 123456789012 </numerical>.

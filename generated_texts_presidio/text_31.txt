@@ -1,9 +1,7 @@
-"En trevlig sommarkväll satt jag i en park och träffade på en dam vid namn <name> Anna Karlsson </name>. Anna var nyfiken på min hund och undrade om vi kanske skulle kunna prata mer kring det, därför gav hon mig sitt telefonnummer <phone> 070-123-4567 </phone>. 
+Förra veckan deltog jag i en kurs där jag träffade flera intressanta personer. En av dem var <name> Anna Karlsson </name>, som visade sig vara mycket kunnig inom sitt område. Under en paus delade hon med sig av sitt telefonnummer <phone> 070-123 45 67 </phone> ifall jag behövde nå henne. Anna bor på <address> Storgatan 12, 12345 Stockholm </address> och nämnde att hon nyligen köpt en ny lägenhet där.
 
-Efter att ha utbytt mer samtal, kände Anna att hon ville bjuda mig över till en hundträff som hon regelbundet ordnade hemma hos sig. Hon bodde på <address> Kungsängsgatan 5, 753 22 Uppsala </address>.
+Jag fick också kontakt med <name> Per Andersson </name>, som arbetar som systemutvecklare. Vi utbytte e-postadresser för att hålla kontakten och hans e-post är <email> per.andersson@example.com </email>. Under samtalet berättade Per för mig att hans medlemsnummer i vår gemensamma förening är <id> 987654321 </id>.
 
-Av någon anledning, om jag hade fler frågor om hundträffen, uppmanade Anna mig att skicka ett e-mail till henne. Hennes e-post var <email> anna.karlsson@gmail.com </email>.
+På kursen var även <name> Lisa Nilsson </name> närvarande. Hon delade ut sitt visitkort där hennes telefonnummer <phone> 031-987 65 43 </phone> och e-postadress <email> lisa.nilsson@workmail.com </email> fanns angivna. Lisa nämnde också sitt kundnummer hos sitt bankkonto som var <id> 1122334455 </id>.
 
-Under vårt samtal berättade Anna att hon också var medlem i en lokal hundklubb och att hennes medlemsnummer var <id> XKD321 </id>. Anna berättade också att alla som skulle vilja gå med i klubben behöver betala en årsavgift. Hon var van att ta emot betalningar via kort, så länge du är tyst om det <credit_card> 1234-5678-9012-3456 </credit_card>.
-
-Det var ett så intressant möte och jag såg fram emot hundträffen."
+En annan deltagare, <name>

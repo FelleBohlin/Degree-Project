@@ -1,1 +1,1 @@
-<name>Sofia Larsson</name> <phone>070-123-4567</phone> <address>Storgatan 12, 112 34 Stockholm</address> <email>sofia.larsson@example.com</email> <numerical>987654321</numerical> <numerical>ABC123</numerical>
+Sofia Larsson<span class="name"></span>070-123-4567<span class="phone"></span>Storgatan 12, 112 34 Stockholm<span class="address"></span>sofia.larsson@example.com<span class="email"></span>987654321<span class="numerical"></span>ABC123<span class="numerical"></span>

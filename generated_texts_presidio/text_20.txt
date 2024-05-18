@@ -1,11 +1,1 @@
-Det var en vacker morgon och jag hade bestämt mig för att besöka en lokal kafeteria. Här var jag, sippar på min morgonkaffe när jag såg en gammal bekant av mig, <name> Erik Nilsson </name>. Han var en gammal arbetskamrat som jag inte har sett på länge. Erik kom fram till mig och vi började prata om gamla tider. Han ville hålla kontakten och gav mig därför hans telefonnummer <phone> 070-123-4567 </phone>.
-
-Senare samma dag, jag var tillbaka hem, bestämde jag att skicka ett mail till min vän Erik. Han hade tidigare delat med mig sin e-mailadress <email> erik.nilsson@mail.com </email>. Efter att ha delat några hälsningar i e-posten skickade jag den till honom.
-
-Efter några dagar, Erik och jag bestämde att träffas igen. Han bor inte långt ifrån mitt hus. Han bor på <address> Solgatan 9, 123 45, Stockholm </address>. Vi hade en bra tid att minnas gamla minnen.
-
-Erik är medlem av en lokal bokklubb. Han delade med mig sitt medlemsnummer <id> ABC123 </id> och föreslog mig att också bli medlem. Dagen efter hans förslag beslutade jag att gå till bokklubben och använda Erik's referensmedlemsnummer.
-
-Erik berättade att han brukade köpa böcker online. Han föreslog en webbplats där de accepterar betalning via kreditkort. Han delade att han slog in sina kortuppgifter och att det var säkert. Men av säkerhetsskäl ska vi aldrig dela <credit_card> kreditkortsinformation </credit_card> med någon, inte ens dina närmaste vänner.
-
-Ovanstående information är endast påhittad för generering av dummy data och har inget att göra med någon levande individ.
+Igår när jag var ute och promenerade, stötte jag på min gamla vän <name> Anna Karlsson </name>. Hon berättade att hon precis hade flyttat till en ny adress på <address> Storgatan 12, 12345 Huvudstaden </address>. Vi satte oss ner för en fika och hon delade sitt nya telefonnummer <phone> 070-123-4567 </phone> med mig. Hon nämnde också att hennes nya e-postadress nu är <email> anna.karlsson@example.com </email>. Under vårt samtal delade hon också med sig av sitt medlemsnummer till bokklubben, som är <id> 987654321 </id>. När vi senare gick till affären för att köpa några saker, märkte jag att hon betalade med sitt kreditkort <credit_card> 1234-5678-9876-5432 </credit_card>, vilket påminde mig om att fråga om hennes senaste resa. Anna berättade att hon hade varit i Italien och att hon hade ett fantastiskt äventyr där. För att följa upp vårt samtal skickade jag ett meddelande till henne senare på kvällen från min e-postadress <email> minadress@exempel.com </email>.

@@ -1,2 +1,1 @@
-<Iphone> 070-123-4567 </Iphone>
- MDBpletely satisfied with the service our family business.
+Jag träffade en person som hette <name> Maria Andersson </name> idag. Hon bor på <address> Västergatan 15, 112 24 Stockholm </address>. Maria gav mig sitt <phone> 070-123-4567 </phone>, så att vi kunde fortsätta diskussionen via telefon senare. Hon nämnde också att hennes <email> maria.andersson@example.com </email>. Under vårt möte diskuterade vi också hennes <numerical> bankkontonummer 1234-5678-9012 </numerical>, för att ordna betalningar för de tjänster hon var intresserad av. Maria har även ett <creditcard> VISA </creditcard>, med nummer <creditcard> 4111 1111 1111 1111 </creditcard>, vars utgångsdatum är <creditcard> 08/25 </creditcard> och <creditcard> 123 </creditcard>.

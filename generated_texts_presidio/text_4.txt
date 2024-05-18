@@ -1,11 +1,1 @@
-En solig dag, hände det sig att jag stötte samman med en vänlig herre vid namn <name> Karl Gustafsson </name>. Han hade just flyttat till min stad och bor på <address> Blomstervägen 9, 12345 Solstad </address>. Eftersom vi fastnade i ett trevligt samtal, bestämde vi oss för att fortsätta diskussionen över telefon. Han gav mig sitt nummer, <phone> 076-123-4567 </phone> och bad mig att ringa nästa gång jag skulle ner till staden.
-
-Faktum var att Karl hade startat en liten firma i Solstad och letade efter potentiella kunder. Han gav mig sitt visitkort där hans e-postadress <email> karl.gustafsson@firman.se </email> var tydligt noterat.
-
-Och på tal om affärer, jag kom ihåg ett minne från förra året när jag köpte en bok på nätet. Säljaren var en dam som hette <name> Anna Jönsson </name> bosatt på <address> Stenåldersgatan 12, 54321 Kalkstad </address>. Jag skickade pengarna till hennes bankkonto, vilket hade numret <id> 1234-5678-9012-3456 </id>. 
-
-Anna använde sin e-postadress <email> anna.jonsson@bookshop.se </email> för att kommunicera med mig om leveransen. Vi utbytte även telefonnummer då jag behövde ta emot boken vid ett visst tid. Hennes telefonnummer var <phone> 079-654-3210 </phone>.
-
-Häromdagen fick jag ett mejl från min bank och de bad mig att uppdatera mina kortuppgifter. Jag har ju mitt kreditkort nummer <credit_card> 4567-8901-2345-6789 </credit_card> samt säkerhetskoden <id> 123 </id> och utgångsdatumet <id> 05/25 </id> på baksidan av mitt kort.
-
-Observera att allt detta är påhittad känslig information som inte hänvisar till verkliga individer eller deras personlig information.
+Jag besökte en vän i helgen som heter <name> Anna Karlsson </name>. Hon bor på <address> Blåbärsgatan 12, 12345 Stockholm </address> och vi hade en trevlig tid tillsammans. Anna berättade för mig att hon nyligen bytt sitt telefonnummer till <phone> 070-123-4567 </phone> och hon har också fått en ny e-postadress: <email> anna.karlsson@example.com </email>. Under vårt samtal nämnde hon att hon just fått ett nytt jobb och hennes anställningsnummer är <id> AN1234567890 </id>. Hon var också tvungen att uppdatera sitt kreditkortsinformation som nu är <credit_card> 4111-1111-1111-1111 </credit_card>. Det var verkligen en fullspäckad dag fylld med intressanta nyheter och uppdateringar.

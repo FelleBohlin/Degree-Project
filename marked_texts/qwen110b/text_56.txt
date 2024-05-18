@@ -1,1 +1,14 @@
-I en liten stad kallad <place>Veramåla</place> bor en man vid namn <name>Karl Andersson</name>. Han arbetar som systemutvecklare och bor på <address>Björkvägen 24, 352 36 Veramåla</address>. Karl delade med sig av sin <email>karl.andersson@exempelmail.se</email>, när vi träffades på en konferens förra veckan. Han nämnde också sitt mobilnummer, <phone>070-1234567</phone>, för att vi skulle kunna hålla kontakten via WhatsApp. Karl har nyligen köpt en ny bil, en Volvo XC60, med registreringsnummer <numerical>XYZ123</numerical>. Hans favoritfritidsaktivitet är att segla, och han är medlem i den lokala segelklubben, medlemsnummer <numerical>98765</numerical>.
+<IgnoredText>
+<IgnoredText>
+<name> Karl Andersson </name>
+<IgnoredText>
+<address> Björkvägen 24, 352 36 Veramåla </address>
+<IgnoredText>
+<email> karl.andersson@exempelmail.se </email>
+<IgnoredText>
+<phone> 070-1234567 </phone>
+<IgnoredText>
+<registration> XYZ123 </registration>
+<IgnoredText>
+<numerical> 98765 </numerical>
+<IgnoredText>

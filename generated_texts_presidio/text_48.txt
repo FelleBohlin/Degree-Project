@@ -1,9 +1,1 @@
-Den här veckan träffade jag en intressant individ vid namn <name> Lars Olsson </name>. Vi utbytte telefonnummer, så jag har nu hans nummer, vilket är <phone> 070-123-4567 </phone>. Eftersom vi både har ett intresse av fotboll bestämde vi oss för att möta upp vid hans hem <address> Rödbetsvägen 42, 17263 Stockholm </address>.
-
-Senare på dagen fick jag ett mail från honom från hans e-postadress <email> lars.olsson@hotmail.com </email>, där han gav mig information om kommande fotbollsevent som vi båda skulle kunna delta i.
-
-Under vår konversation nämnde Lars att han nyligen åkte på en resa där hans resenärsnummer var <id> ABC123FLY </id>. Jag tycker det är roligt att samla på sådana minnen. 
-
-Vid ett tillfälle under vår konversation nämnde han att han nyligen hade haft problem med sitt Visa-kort. Numret på det kortet var <credit_card> 4111 1111 1111 1112 </credit_card>. Jag föreslog att han skulle kontakta sin bank för att klara upp saken. 
-
-Det var roligt att träffa Lars och jag ser fram emot att spendera mer tid med honom i framtiden, och kanske till och med delta i några fotbollsevent tillsammans.
+Igår träffade jag en gammal vän som heter <name> Anna Karlsson </name>. Hon berättade att hon nyligen hade flyttat till en ny adress på <address> Storgatan 45, 12345 Stockholm </address>. Vi pratade om hur hennes barn, <name> Erik Karlsson </name> och <name> Lisa Karlsson </name>, trivdes i den nya skolan. Anna gav mig sitt nya telefonnummer <phone> 070-123-4567 </phone> så att vi kunde hålla kontakten. Hon nämnde också att hennes man, <name> Peter Karlsson </name>, hade fått ett nytt jobb och att hans arbetsgivare hade skickat honom ett e-postmeddelande på <email> peter.karlsson@jobbmail.com </email> med detaljerna. Anna gav mig även sitt medlemsnummer för en bokklubb hon är med i, <id> 987654321 </id>, ifall jag ville gå med. När vi diskuterade planerna för nästa vecka, sa hon att hon hade beställt en ny dator och fått ett spårningsnummer för frakten, <id> ABC123XYZ </id>. Jag tackade henne och vi bestämde att ses igen snart. Innan vi skildes åt, gav hon mig sitt kreditkortsnummer <credit_card> 1234-5678-9012-3456 </credit_card> för

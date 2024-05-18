@@ -1,7 +1,1 @@
-Är du klar att lyssna på en historia som hände mig? Bra, låt oss börja. En gång, när jag promenerade till parken, träffade jag på en man med ett väldigt intressant namn, som var <name> Axel Sjöberg </name>. Jag minns att han var väldigt trevlig och gav mig sitt telefonnummer <phone> 358-909-1256 </phone> om jag någonsin skulle behöva något. 
-
-Samma dag, när jag kom tillbaka till mitt hus på <address> Barkvägen 10, 12345 Stockholm </address>, fick jag ett mejl. Jag var förvånad när jag såg att det var från Axel Sjöberg, vars mejladress var <email> axel.sjoberg@email.com </email>. Han ville bara påminna om några saker vi pratade om. 
-
-Senare, när vi blev vänner, avslöjade Axel att han har en ganska unik identifierare för sitt jobb på banken, vilket var <id> AX673B </id>. Åh, och han nämnde också hans kreditkortsnummer <credit_card> 5982-4584-1452-6798 </credit_card> när vi talade om online-shopping, men jag såg till att jag aldrig sparade någonstans för hans säkerhet. 
-
-Så, ja, det här är min historia om Axel, och jag hoppas den ger dig några idéer om hur du kan formulera din textdata med dummy information.
+Jag satt på ett kafé när jag hörde någon ropa på <name> Lisa Andersson </name>. Hon pratade i telefon med ett företag och nämnde sitt nummer <phone> 070-123-4567 </phone>. Efter samtalet skrev hon ner sin adress <address> Storgatan 12, 12345 Staden </address> på en servett och gav den till servitören. Senare skickade hon ett mejl från <email> lisa.andersson@example.com </email> och nämnde att hennes medlemsnummer var <id> 987654321 </id>. Under samtalet betalade hon även för sin kaffe med sitt kreditkort och läste upp sitt kortnummer <credit_card> 1234-5678-9012-3456 </credit_card>.

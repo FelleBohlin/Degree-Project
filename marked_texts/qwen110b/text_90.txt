@@ -1,15 +1,1 @@
-<Ignored Text>
-<name> Sara Nilsson </name>
-<Ignored Text>
-<phone> 070-123-4567 </phone>
-<Ignored Text>
-<email> sara.nilsson@example.com </email>
-<Ignored Text>
-<address> Blomstervägen 12, 123 45 Roslagen </address>
-<Ignored Text>
-<numerical> 987654321 </numerical>
-<Ignored Text>
-<numerical> ABC123 </numerical>
-<Ignored Text>
-<creditcard> 1234 </creditcard>
-</Ignored Text>
+<sara>Name Sara Nilsson </name> bodde på <address> Blomstervägen 12, 123 45 Roslagen </address>. Hennes telefonnummer var <phone> 070-123-4567 </phone> och hennes e-postadress var <email> sara.nilsson@example.com </email>. Hon Mentioned hennes medlemsnummer i Trädgårdsföreningen som <numerical> 987654321 </numerical>. Hennes bil hade registreringsnummer <numerical> ABC123 </numerical>. Hon hade fått ett nytt kreditkort med aktivitetskoden <numerical> 1234 </numerical>.

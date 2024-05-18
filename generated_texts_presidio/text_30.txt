@@ -1,11 +1,7 @@
-Så här kommer det att se ut:
+Det var en solig dag när <name> Emma Karlsson </name> bestämde sig för att ta en promenad till parken. På vägen dit stötte hon på sin gamla vän <name> Henrik Andersson </name>. De hade inte setts på flera år och bestämde sig för att sätta sig ner och prata en stund. Henrik uppdaterade Emma om hans nya jobb och gav henne sitt telefonnummer <phone> 070-123-4567 </phone> så att de kunde hålla kontakten.
 
-'När jag gick till matbutiken tidigare idag, stötte jag på en gammal vän vid namn <name> Anna Nilsson </name>. Hon berättade att hon nyligen hade flyttat och gav mig sin nya adress, som är <address> Östergatan 26, 12345, Malmö </address>. Vi bestämde oss för att ordna en social distansfika nästa vecka på hennes nya plats.
+Emma berättade om sitt nya hus och gav Henrik sin nya adress <address> Storgatan 5, 12345 Stockholm </address>. De insåg att de hade mycket att ta igen, så Emma föreslog att de kunde mötas upp igen nästa vecka. För att planera det bättre, gav Henrik henne sin e-postadress <email> henrik.andersson@example.com </email>.
 
-Anna sa också att jag kunde nå henne på hennes nya telefonnummer <phone> 073-456-7891 </phone> ifall jag behöver fler detaljer om hur jag ska ta mig dit. Hon gav mig också sin e-postadress <email> anna.nilsson@gmail.com </email> för att skicka över några recept på fruktterter hon tycker jag borde prova att laga.
+När de satt och pratade, kom en brevbärare förbi och levererade ett brev till Emma. Hon öppnade det och såg att det var från hennes bank, med ett nytt kreditkort. Hon noterade sitt nya kreditkortsnummer <credit_card> 1234-5678-9012-3456 </credit_card> och lade det säkert tillbaka i sin plånbok.
 
-När vi pratade berättade Anna att hon nyligen köpt ett nytt fotografiutrustning online och att hon hittade det genom att följa ett spårningsnummer <id> ABCD-1234-EFGH-5678 </id> som hon fick i en e-post från fraktbolaget.
-
-För att betala för hennes nya kamera, använde Anna sitt kreditkort <credit_card> 1234-5678-9012-3456 , utgångsdatum 09/23, säkerhetskod 456 </credit_card>. Att ha en bra kamera hade varit en dröm för Anna sedan hon var en liten flicka och nu har hennes dröm äntligen blivit verklighet.'
-
-Observera att alla dessa detaljer är fiktiva och därför helt säkra att använda för att träna din modell. Faktum är att alla de "känsliga" uppgifterna är påhittade och innehåller ingen verklig personlig information.
+Henrik nämnde att han nyligen hade blivit medlem i en exklusiv klubb och visade sitt medlems

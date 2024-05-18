@@ -8,3 +8,5 @@ spacy
 Faker
 fasttext-wheel
 openpyxl
+matplotlib
+langchain-community

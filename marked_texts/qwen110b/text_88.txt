@@ -1,1 +1,6 @@
-<name> Maria Andersson </name> <address> Solgatan 12, 123 45 Solstaden </address> <phone> 070-123-4567 </phone> <email> maria.andersson@exempelföretag.se </email> <numerical> 123456789012 </numerical> <numerical> ABC123XYZ </numerical>
+Maria Andersson
+Solgatan 12, 123 45 Solstaden
+070-123-4567
+maria.andersson@exempelföretag.se
+123456789012
+ABC123XYZ

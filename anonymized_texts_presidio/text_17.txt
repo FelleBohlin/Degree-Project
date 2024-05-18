@@ -1,0 +1,5 @@
+När jag gick till kontoret i morse, mötte jag en gammal vän, <name> Ragnar Larsson </name>, som jag inte hade sett på flera år. Vi bestämde oss för att ta en fika tillsammans, och hon gav mig sitt nya telefonnummer <phone> 070-123-4567 </phone> så att vi kunde hålla kontakten. Under samtalet delade hon också sin e-postadress <email> lisa.andersson84@hotmail.com </email> för att vi skulle kunna skicka varandras bilder från våra semestrar.
+
+Helene Karlsson berättade att hon nyligen hade flyttat till en ny adress, <address> Piteå 5, 123 45 Norrköping </address>, och trivdes väldigt bra där. Hon nämnde också att hon hade bytt bank och fått ett nytt kreditkort med nummer <credit_card> 4111-1111-1111-1111 </credit_card>, men hon var lite orolig över säkerheten kring det.
+
+Senare under dagen fick jag ett e-postmeddelande från min chef, <name> Sten Lundin </name>, med viktiga instruktioner och ett ärendenummer <id> 987654321 </id> som jag behövde följa upp. Han bad mig också att skicka ett meddelande till vår partner, <name> Stig Östlund </name>, på hennes e-postadress <email> maria.jon

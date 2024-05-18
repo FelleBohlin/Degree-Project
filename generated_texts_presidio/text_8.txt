@@ -1,7 +1,1 @@
-Här kommer Sofia, en fiktiv karaktär, i berättelsen. Sofia har nyligen flyttat till Stockholm. Hennes fullständiga namn är <name> Sofia Karlsson </name>. Hon bor på <address> Drottninggatan 50, 112 21 Stockholm </address>. Sofia delade också med sig av sitt mobilnummer, det var <phone> 070-123-4567 </phone>.
-
-Sofia jobbar för ett internationellt företag och de använder nummer för att identifiera sin personal. Sofia's anställningsnummer är <id> SK102223 </id>. Även hennes offentliga e-postadress hon använder för jobb ska jag nämna: <email> sofia.karlsson@fiktivtforetag.com </email>.
-
-För att betala sina räkningar online, använde hon sitt kreditkort. Kreditkort information hon gav var (fiktiv information): <credit_card> 1234-5678-9012-3456, utgångsdatum 12/25 och CVV 123 </credit_card>. Naturligtvis innehåller alla dessa uppgifter inget riktigt personligt data utan är helt och hållet påhittade för detta exempel. 
-
-Ingen bör bekymra sig om att hennes information är utsatt, eftersom detta är en påhittad individ och ingen verklig person.
+Jag träffade en person som hette <name> Anna Lindberg </name> på konferensen. Hon nämnde att hon bor på <address> Storgatan 5, 12345 Stockholm </address> och att man kan nå henne på <phone> 070-123-4567 </phone>. Vi diskuterade också möjligheten att samarbeta på ett projekt och hon gav mig sitt medlemsnummer <id> ABC123456 </id>. Senare skickade hon ett mejl till mig från sin adress <email> anna.lindberg@example.com </email> med ytterligare detaljer och bifogade sitt kreditkortsnummer <credit_card> 1234-5678-9012-3456 </credit_card> för betalning av den första månadsavgiften.

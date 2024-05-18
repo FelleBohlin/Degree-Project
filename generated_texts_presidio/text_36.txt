@@ -1,13 +1,1 @@
-Så här kan ett exempel på en textsträng se ut för din träningsdata:
-
-'Den andra dagen gick jag till kaféet runt hörnet och råkade stöta på en gammal vän vid namn <name> Anna Karlsson </name>. Hon har precis kommit tillbaka till staden efter att ha tillbringat några veckor på resande fot. Vi utbytte information för att kunna hålla kontakten och hon gav mig sitt telefonnummer <phone> 098-765-4321 </phone>. Hon ville även att jag skickar henne några bilder som vi tog tillsammans förr så jag bad om hennes e-postadress och hon gav mig <email> anna.karlsson@gmail.com </email> för att kunna skicka dem till henne.
-
-Vi började diskutera om ett projekt som vi båda jobbade med för några år sedan. För att komma ihåg detaljerna i projektet gav hon mig projektets identifierare <id> 847-JC-9832 </id> som jag kunde använda för att hitta informationen online. 
-
-Anna berättade för mig om sitt nya träningsprogram och var stolt över att ha blivit medlem i en ny gymkedja. Hon skickade mig sitt medlemsnummer för att rekommendera det till mig <id> M10050 </id>.
-
-Senare under dagen, efter att vi sa adjö till varandra, ringde hon mig för att berätta att hon hade tappat sitt kreditkort på kaféet. Jag hjälpte henne att ringa till hennes bank för att spärra det. Kortet hade numret <credit_card> 4567-1234-5678-9012 </credit_card>.
-
-Dock, lyckades jag inte hitta hennes kreditkort, så jag bestämde mig för att skicka en present till hennes hus som ett litet plåster på såren. Jag bad henne om sin adress och hon gav mig <address> Långa gatan 23, 12345 Storstad </address>.'
-
-Var noga med att alltid skydda verklig personlig information och använda denna typ av uppmärkt simulering för att träna modeller på ett ansvarsfullt sätt.
+Jag mötte min gamla vän <name> Emma Karlsson </name> på caféet i staden. Vi pratade om gamla tider och hon berättade att hon precis hade flyttat till en ny lägenhet på <address> Storgatan 12, 12345 Stockholm </address>. Hon nämnde också att hon hade bytt telefonnummer och gav mig sitt nya nummer <phone> 070-123-4567 </phone>. Emma bad mig att skicka över några gamla bilder vi tog under skoltiden till hennes nya e-postadress <email> emma.karlsson@example.com </email>. Under samtalet kom vi in på ämnet resor och hon berättade att hon precis hade bokat en resa med sitt nya kreditkort <credit_card> 4111-1111-1111-1111 </credit_card>, som skulle ge henne många fördelar. När vi skildes åt sa hon att hon skulle komma ihåg att lägga till mig på sin kontaktlista med mitt id-nummer <id> AB12345678 </id> för det nya medlemskapet vi båda är en del av.

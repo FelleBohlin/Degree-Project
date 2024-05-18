@@ -1,0 +1,5 @@
+När jag var på kontoret häromdagen, hörde jag att <name> Johan Lindén </name> hade fått en ny lägenhet på <address> Sandviken 12, 12345 Borås </address>. Hon berättade också att hon hade uppdaterat sitt telefonnummer till <phone> 070-123-4567 </phone>. Annika Johansson nämnde att hon nyligen bytte e-postadress till <email> anna.andersson@example.com </email> eftersom hennes gamla konto blivit hackat.
+
+Medan vi pratade, såg jag att <name> Nils Lindström </name> ringde henne. Hon visade mig sitt nya kreditkort med nummer <credit_card> 1234-5678-9101-1121 </credit_card> för att försäkra sig om att allt var i ordning. Hon behövde även sitt medlemsnummer, som var <id> ABC123XYZ </id>, för att slutföra en beställning online.
+
+Senare under dagen, träffade jag <name> Christian Lindholm </name> som var på väg till posten för att hämta ett paket. Hon hade spårningsnummer <id> 1Z999AA10123456784 </id> som hon behövde för att hämta ut det. Malin Karlsson nämnde också att hennes vän <name> Eivor Lundmark </name> hade flyttat till <address> Lilla Vägen 

@@ -1,7 +1,6 @@
-from langchain.chains import LLMChain
+from langchain_core.runnables import RunnableSequence
 from langchain_core.prompts import PromptTemplate
 from OpenRouterAPI import OpenRouterAPI
-from dotenv import load_dotenv
 from langchain_core.output_parsers import StrOutputParser
 
 def create_second_chain(api_key):
@@ -16,13 +15,16 @@ def create_second_chain(api_key):
     'Projektledaren Johan Knutsson berättade att...' -> 'Projektledaren [ANONYMIZED] berättade att...'
     
     Anonymisera följande text:
-    {text}
     """
     
-    second_prompt = PromptTemplate(
-        input_variables=["text"], template=second_prompt_template
-    )
-    
-    # Initialize the LLM for the second stage using OpenRouterAPI
-    second_llm = OpenRouterAPI(api_key)
-    return second_prompt | second_llm | StrOutputParser()
+    # Create a PromptTemplate instance with the second prompt template
+    prompt = PromptTemplate(input_variables=["text"], template=second_prompt_template)
+
+    # Create an instance of the OpenRouterAPI with the provided API key
+    llm = OpenRouterAPI(api_key)
+
+    # Create an instance of StrOutputParser to parse the output text
+    parser = StrOutputParser()
+
+    # Return a RunnableSequence that chains the prompt, llm, and parser
+    return RunnableSequence(prompt, llm, parser)

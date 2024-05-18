@@ -1,0 +1,5 @@
+Jag gick till en fest hos <name> Maria Andersson </name> förra helgen. Hennes hus ligger på <address> Storgatan 123, 12345 Stockholm </address> och det var väldigt lätt att hitta dit. På festen träffade jag <name> Erik Larsson </name> som jobbar som IT-konsult. Vi bytte kontaktuppgifter och han gav mig sitt telefonnummer <phone> 070-123-4567 </phone> samt sin e-postadress <email> erik.larsson@exempel.com </email>. 
+
+Under natten pratade jag också med <name> Anna Nilsson </name> som berättade att hon nyligen flyttat till en ny stad. Hon bor nu på <address> Lillgatan 4, 54321 Uppsala </address>. Jag fick även veta att <name> Johan Karlsson </name> var där och han delade med sig av sitt medlemsnummer för sitt gym, vilket var <id> GYM123456789 </id>. När vi diskuterade våra senaste online-shoppingupplevelser nämnde <name> Lisa Persson </name> att hon nyligen hade fått ett nytt kreditkort och att numret är <credit_card> 1234-5678-9012-3456 </credit_card>, men att hon måste vara försiktig med att inte dela det för mycket.
+
+Senare under festen pratade vi
