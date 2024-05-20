@@ -1,5 +1,6 @@
 import os
 import json
+import time
 from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.runnables import RunnableSequence, RunnableMap
@@ -11,7 +12,10 @@ from llm_settings import LLMSettings
 
 def get_openrouter_models(provider: dict) -> list[str]:
     return [
-        "meta-llama/llama-3-70b",
+        "meta-llama/llama-3-70b-instruct",
+        "qwen/qwen-110b-chat",
+        "meta-llama/llama-3-8b-instruct"
+        
     ]
 
 def get_llm_client(settings: LLMSettings) -> ChatOpenAI:
@@ -26,55 +30,131 @@ def get_llm_client(settings: LLMSettings) -> ChatOpenAI:
     }
     return ChatOpenAI(**options)
 
+
+
+load_dotenv()
+
+OPENROUTER_API_KEY = os.environ["OPENROUTER_API_KEY"]
+if OPENROUTER_API_KEY is None:
+    raise ValueError("OPENROUTER_API_KEY does not exist, add it to env")
+    
 PROVIDERS = {
     "openrouter": {
         "base_url": "https://openrouter.ai/api/v1",
-        "api_key": "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",
+        "api_key": os.getenv("OPENROUTER_API_KEY"),
         "models_loader": get_openrouter_models,
     }
 }
 
 if __name__ == "__main__":
-    load_dotenv()
-    settings = LLMSettings(
+    
+    settings_first_model = LLMSettings(
         provider="openrouter",
-        model="meta-llama/llama-3-70b",
+        model="meta-llama/llama-3-70b-instruct",
         temperature=0.5
     )
 
-    # Prompt templates
-    anonymize_prompt_template = ChatPromptTemplate.from_template("Anonymize all PII in the following text: {text}")
-    emphasize_names_prompt_template = ChatPromptTemplate.from_template("Make sure the following text has no names mentioned and emphasize anonymization of names: {text}")
+    settings_second_model = LLMSettings(
+        provider="openrouter",
+        model="meta-llama/llama-3-8b-instruct",
+        temperature=0.5
+    )
+    
+    # Prompt template for the first chain.
+    # Used to detect and anonymize all PII
+    anonymize_prompt_template = ChatPromptTemplate.from_template("""
+    Du är en säkerhetsassistent.
+    Din uppgift är att identifiera all personligt identifierbar information (PII).
+    När du hittar PII, anonymizera den med denna tag [ANONYMIZED], som i exemplen nedan.
+    Anonymizera endast texten med den taggen, skriv ingenting annat. Skriv inga förklaringar eller sammanfattningar, endast anonymizera texten.
+
+    Exempel på hur texten ska anonymizeras:
+    'Jag träffade en person som hette [ANONYMIZED] igår. Han gav mig sitt telefonnummer [ANONYMIZED] samt hans e-postadress [ANONYMIZED]'
+    'Min vän [ANONYMIZED] bor på [ANONYMIZED]. Hennes IP-adress är [ANONYMIZED].'
+
+    Personlig känslig information (PII) inkluderar:
+        Person/Namn - Detta inkluderar förnamn, mellannamn, efternamn eller hela namn på individer (inklusive enskilda förnamn eller efternamn, inte bara fullständiga namn.).
+        Telefonnummer - Alla telefonnummer, inklusive avgiftsfria nummer.
+        Adress - Kompletta eller partiella adresser, inklusive gata, postnummer, husnummer, stad och stat.
+        E-post - Alla e-postadresser.
+        Numeriskt Identifierare - Alla numeriska eller alfanumeriska identifierare som ärendenummer, medlemsnummer, biljettnummer, bankkontonummer, IP-adresser, produktnycklar, serienummer, spårningsnummer för frakt, etc.
+        Kreditkort - Alla kreditkortsnummer, säkerhetskoder eller utgångsdatum.
+
+    Texten som ska anonymizeras:
+
+    {text}
+    """)
+
+    # Prompt template for the second chain
+    # Used to focus on the detection and anonymization of names
+    emphasize_names_prompt_template = ChatPromptTemplate.from_template("""
+    Du är en säkerhetsassistent.
+    Din uppgift är att identifiera samt anonymizera alla namn.
+    När du hittar ett namn, anonymizera den med denna tag, [ANONYMIZED], som i exemplen nedan.
+    Anonymizera endast texten med den taggen, skriv ingenting annat. Skriv inga förklaringar eller sammanfattningar, endast anonymizera texten.
+
+    Exempel på hur texten ska anonymizeras:
+    'Jag träffade en person som hette Gustaf igår'. -> 'Jag träffade en person som hette [ANONYMIZED] igår'
+    'Anna och Alice spelar tillsammans i samma fotbolls lag' -> '[ANONYMIZED] och [ANONYMIZED] spelar tillsammans i samma fotbolls lag'
+
+    Namn inkluderar förnamn, mellannamn, efternamn eller hela namn på individer.
+
+    Texten som ska anonymizeras:
+
+    {text}
+    """)
 
     # Output parsers
     output_parser = StrOutputParser()
 
-    # LLM client
-    model = get_llm_client(settings)
+    # LLM clients
+    model_first = get_llm_client(settings_first_model)
+    model_second = get_llm_client(settings_second_model)
 
     # First chain: Anonymize all PII
     anonymize_chain = (
-        RunnableMap({"text": RunnablePassthrough()})
-        | anonymize_prompt_template
-        | model
+        anonymize_prompt_template
+        | model_first
         | output_parser
     )
 
-    # Second chain: Emphasize anonymization of names
+    # Second chain: Focuses on anonymization of names
     emphasize_names_chain = (
-        RunnableMap({"text": RunnablePassthrough()})
-        | emphasize_names_prompt_template
-        | model
+        emphasize_names_prompt_template
+        | model_second
         | output_parser
     )
 
-    # Input text
-    input_text = "John Doe, a software engineer at Acme Corp, lives at 123 Elm Street."
+     # Input and output directories (Note when running from the parent path specify the path depending on from where it is ran)
+    input_dir = "generated_texts" 
+    output_dir = os.path.join('PiiAnonymizer/Anonymized_texts')
+    os.makedirs(output_dir, exist_ok=True)
 
-    # Run the first chain
-    anonymized_text = anonymize_chain.invoke({"text": input_text})
 
-    # Run the second chain with the output of the first chain
-    final_result = emphasize_names_chain.invoke({"text": anonymized_text})
+    start_time = time.time()
 
-    print(final_result)
+    # Process each file in the input folder
+    for filename in os.listdir(input_dir):
+        input_filepath = os.path.join(input_dir, filename)
+        if filename.endswith(".txt") and os.path.isfile(input_filepath):  # Ensure the file ens with .txt to avoid permission deneid errors
+            output_filepath = os.path.join(output_dir, filename)
+
+            with open(input_filepath, 'r', encoding='utf-8') as file:
+                input_text = file.read()
+    
+            # Run the first chain
+            anonymized_result = anonymize_chain.invoke({"text": input_text})
+            anonymized_text = anonymized_result.strip()
+    
+            # Run the second chain with the output of the first chain
+            final_result = emphasize_names_chain.invoke({"text": anonymized_text})
+            final_text = final_result.strip()
+    
+            # Write the final anonymized text to the output file
+            with open(output_filepath, 'w', encoding='utf-8') as file:
+                file.write(final_text)
+
+    end_time = time.time()
+    elapsed_time = end_time - start_time
+
+    print(f"Anonymization process completed in {elapsed_time:.2f} seconds.")
