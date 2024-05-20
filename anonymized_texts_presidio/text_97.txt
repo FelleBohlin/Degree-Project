@@ -1,5 +1,0 @@
-När jag gick genom parken häromdagen, mötte jag en gammal vän vid namn <name> Camilla Johansson </name>. Det var länge sedan vi sågs, så vi bestämde oss för att ta en fika tillsammans. Under samtalet delade hon med sig av sitt nya telefonnummer <phone> 070-123-4567 </phone> och sin nya bostadsadress <address> Motala 15, 123 45 Sundsvall </address>. Hon berättade även att hon nyligen bytt e-postadress till <email> anna.nilsson@example.com </email> på grund av problem med sitt gamla konto. 
-
-Anna Karlsson nämnde också att hon hade fått ett nytt medlemsnummer i sin bokklubb, vilket var <id> ABC12345 </id>, och att hon var väldigt nöjd med de senaste böckerna hon fått. Hon visade mig även sitt nya kreditkort som hade numret <credit_card> 4111-1111-1111-1111 </credit_card>, säkerhetskoden <credit_card> 123 </credit_card>, och utgångsdatum <credit_card> 12/25 </credit_card>.
-
-Vi pratade vidare om gamla minnen och hon berättade att hennes bror, <name> Maria Jonsson </name>, precis hade flyttat till en ny adress på <address> Ängelholm 22, 234 56 Sandviken </address>. Göran Öberg var glad
