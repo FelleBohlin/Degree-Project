@@ -1,13 +1,9 @@
 import os
-import json
 import time
 from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate
-from langchain_core.runnables import RunnableSequence
 from langchain_core.output_parsers import StrOutputParser
 from dotenv import load_dotenv
-from typing import TypedDict, NotRequired
-from langchain_core.runnables import RunnablePassthrough
 from LLMSettings import LLMSettings
 
 # Gets the available models 
@@ -81,7 +77,7 @@ if __name__ == "__main__":
         Telefonnummer - Alla telefonnummer, inklusive avgiftsfria nummer.
         Adress - Kompletta eller partiella adresser, inklusive gata, postnummer, husnummer, stad och stat.
         E-post - Alla e-postadresser.
-        Numeriskt Identifierare - Alla numeriska eller alfanumeriska identifierare som ärendenummer, medlemsnummer, biljettnummer, bankkontonummer, IP-adresser, produktnycklar, serienummer, spårningsnummer för frakt, etc.
+        Numeriskt Identifierare - Alla numeriska eller alfanumeriska identifierare som ärendenummer, medlemsnummer, biljettnummer, bankkontonummer, IP-adresser, produktnycklar, serienummer, spårningsnummer för frakt, etc.in
         Kreditkort - Alla kreditkortsnummer, säkerhetskoder eller utgångsdatum.
 
     Texten som ska anonymizeras:
@@ -196,3 +192,22 @@ if __name__ == "__main__":
     # Prints how long it took to anonymize the input directory
     print(f"Anonymization process completed in {elapsed_time:.2f} seconds.")
 
+
+
+PROVIDERS = {
+    "openrouter": {
+        "base_url": os.environ["OPENROUTER_API_BASE"],
+        "api_key": os.environ["OPENROUTER_API_KEY"],
+        "models_loader": get_openrouter_models,
+    },
+    "ollama": {
+        "base_url": os.environ["LLM_API_BASE"],
+        "api_key": "ollama",
+        "models_loader": get_ollama_models,
+    },
+    "vllm": {
+        "base_url": os.environ["VLLM_API_BASE"],
+        "api_key": "vllm",
+        "models_loader": get_vllm_models,
+    },
+}
