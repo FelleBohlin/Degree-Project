@@ -1,6 +1,6 @@
 This file explains how to run the main anonymization system and how to follow the LLM.ipynb and Presidio.ipynb to see how the testing of the models were conducted
 
-##Introduction
+## Introduction
 This Anonymization system of PII in swedish texts is made in java and must thererfore have python downloaded on your system.
 The main system can be found under the PiiAnonymizer directory. It includes a For_tests directory which was used for the tesing of the system not having dummy data generated.
 
@@ -10,9 +10,9 @@ The 'generated_texts_presidio' directory used for the testing of the Presidio mo
 The 'marked texts' directory include the generated texts after they gone through the marking agent, a step in the testing process.
 
 
-##Installation
+## Installation
 
-###Requirements
+### Requirements
 1. Python
 2. Required libraries listed in 'requirements.txt'
 
@@ -24,16 +24,16 @@ The 'marked texts' directory include the generated texts after they gone through
 3. Create a .env file in the root directory of the project. This file should contain your OpenRouter API key:
     OPENROUTER_API_KEY=your_openrouter_api_key
 
-##Running
+## Running
 1. Ensure all dependencies are installed and the .env file is properly set up.
 2. Run the main file from the root with the following command:
     python PiiAnonymizer/Main.py
 3. The system will read input text files from the generated_texts directory, process them through the chains, and output the anonymized texts to the        PiiAnonymizer/Anonymized_texts directory.
 
-##Quitting
+## Quitting
 To stop the system, simply terminate the running file by pressing Ctrl+C.
 
-##Testing
+## Testing
 To see if the system works correclty place your text files in the 'generated_texts' folder. At download does it include 100 generated files
 run the main file
 Verify that the output in the 'PiiAnonymizer/Anonymized_texts' directory has replaced the PII with dummy data.
